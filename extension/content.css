@@ -3,21 +3,21 @@
 /* ═══ Player Button ═══ */
 .scenepoint-player-btn {
   background: none !important;
+  background-color: transparent !important;
   border: none !important;
-  padding: 0 !important;
-  margin: 0 4px !important;
+  padding: 0 8px !important;
+  margin: 0 !important;
   cursor: pointer !important;
-  font-size: 20px !important;
-  line-height: 1 !important;
-  width: 36px !important;
-  height: 36px !important;
+  width: auto !important;
+  height: 100% !important;
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
-  opacity: 0.85;
-  transition: opacity 0.2s, transform 0.2s;
+  opacity: 0.9;
+  transition: opacity 0.2s;
 }
-.scenepoint-player-btn:hover { opacity: 1; transform: scale(1.15); }
+.scenepoint-player-btn:hover { opacity: 1; background: none !important; }
+.scenepoint-player-btn svg { width: 20px !important; height: 20px !important; min-width: 20px !important; min-height: 20px !important; }
 
 /* ═══ Page Edge Glow ═══ */
 .scenepoint-page-glow {
@@ -66,7 +66,7 @@
   z-index: 99999;
   overflow-y: auto; overflow-x: hidden;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-  color: #d4d4d4; font-size: 14px; line-height: 1.6;
+  color: #d4d4d4; font-size: 15px; line-height: 1.6;
   transform: translateX(100%);
   animation: scenepoint-panel-enter 0.4s cubic-bezier(0.16,1,0.3,1) forwards;
   animation-delay: 0.3s;
@@ -93,9 +93,9 @@
   background: #1a1a1a;
   position: sticky; top: 0; z-index: 2;
 }
-.scenepoint-sp-brand { display: flex; align-items: center; gap: 10px; }
+.scenepoint-sp-brand { display: flex; align-items: center; gap: 4px; }
 .scenepoint-logo { flex-shrink: 0; }
-.scenepoint-sp-title { font-size: 15px; font-weight: 600; color: #e8ddd3; letter-spacing: 0.5px; }
+.scenepoint-sp-title { font-size: 18px; font-weight: 600; color: #e8ddd3; letter-spacing: 0.3px; margin-left: 2px; }
 .scenepoint-sp-close {
   background: none; border: none; color: #555; cursor: pointer;
   padding: 4px 8px; border-radius: 6px; transition: all 0.15s; line-height: 1;
@@ -169,7 +169,7 @@
 @keyframes scenepoint-dot-pulse { 0%,100% { transform: scale(1); opacity: 0.6; } 50% { transform: scale(1.4); opacity: 1; } }
 
 .scenepoint-step-label {
-  flex: 1; font-size: 13px; color: #555; transition: color 0.3s;
+  flex: 1; font-size: 14px; color: #555; transition: color 0.3s;
 }
 .scenepoint-step[data-status="running"] .scenepoint-step-label { color: #e8ddd3; font-weight: 500; }
 
@@ -213,15 +213,15 @@
   letter-spacing: 0.8px; margin: 16px 0 6px;
 }
 .scenepoint-sp-location {
-  font-size: 22px; font-weight: 600; color: #f0ebe5;
-  line-height: 1.3; margin-bottom: 4px;
+  font-size: 24px; font-weight: 600; color: #f0ebe5;
+  line-height: 1.3; margin-bottom: 6px;
 }
 .scenepoint-sp-conf.high { background: #1e3a1e; color: #7dba7d; }
 .scenepoint-sp-conf.medium { background: #3a2e1e; color: #d4a574; }
 .scenepoint-sp-conf.low { background: #3a1e1e; color: #c47070; }
 
 .scenepoint-sp-coords {
-  color: #4a4a4a; font-size: 12px;
+  color: #4a4a4a; font-size: 13px;
   font-family: "SF Mono", "Fira Code", "Consolas", monospace;
   margin: 2px 0 14px;
 }
@@ -263,19 +263,19 @@
 }
 .scenepoint-ev-item { padding: 10px 0; border-bottom: 1px solid #1e1e1e; }
 .scenepoint-ev-item:last-child { border-bottom: none; }
-.scenepoint-ev-source { font-size: 11px; color: #a08060; font-weight: 600; margin-bottom: 3px; }
-.scenepoint-ev-detail { font-size: 13px; color: #777; line-height: 1.5; }
+.scenepoint-ev-source { font-size: 12px; color: #a08060; font-weight: 600; margin-bottom: 3px; }
+.scenepoint-ev-detail { font-size: 14px; color: #888; line-height: 1.5; }
 
 /* Feedback */
 .scenepoint-sp-feedback {
   display: flex; align-items: center; gap: 10px;
   margin-top: 24px; padding-top: 16px;
-  border-top: 1px solid #222; font-size: 13px; color: #555;
+  border-top: 1px solid #222; font-size: 14px; color: #555;
 }
 .scenepoint-fb-btn {
   background: #1e1e1e; border: 1px solid #2a2a2a; color: #999;
-  padding: 7px 18px; border-radius: 6px; cursor: pointer;
-  font-size: 13px; transition: all 0.15s;
+  padding: 8px 20px; border-radius: 6px; cursor: pointer;
+  font-size: 14px; transition: all 0.15s;
 }
 .scenepoint-fb-btn:hover { background: #2a2a2a; border-color: #444; color: #eee; }
 .scenepoint-fb-thanks { color: #6aaa6a; }
@@ -355,13 +355,14 @@
 }
 
 .scenepoint-history-loc {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   color: #e8ddd3;
   margin-bottom: 2px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 6px;
+  gap: 4px 6px;
 }
 
 .scenepoint-history-meta {
@@ -386,11 +387,13 @@
   background: none;
   border: none;
   color: #d4a574;
-  font-size: 13px;
+  font-size: 14px;
   cursor: pointer;
-  padding: 8px 0;
-  margin-bottom: 4px;
+  padding: 12px 0 8px;
+  margin-bottom: 0;
   transition: opacity 0.15s;
+  display: flex;
+  align-items: center;
 }
 .scenepoint-back-btn:hover { opacity: 0.7; }
 
