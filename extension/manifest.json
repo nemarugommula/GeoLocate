@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "ScenePoint — Discover Where Any YouTube Scene Was Filmed",
+  "short_name": "ScenePoint",
+  "description": "AI-powered location discovery. Click any YouTube video frame to find out where it was filmed — with satellite maps, coordinates, and evidence.",
+  "version": "1.0.0",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://vshnlucky-scenera-api.hf.space/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/watch*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

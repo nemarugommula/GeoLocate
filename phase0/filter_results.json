@@ -1,0 +1,4895 @@
+[
+  {
+    "timestamp": 132,
+    "time": "02:12",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.37505208333333334,
+    "has_horizon": true,
+    "horizon_count": 42,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.612,
+      "focus_cv": 0.6,
+      "focus_uniform": "True",
+      "texture_cv": 0.16,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.088",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 12,
+    "horiz_lines": 967,
+    "is_food_closeup": false,
+    "skin_ratio": 0.011,
+    "colors": {
+      "green": 0.612,
+      "water_blue": 0.198,
+      "earth_brown": 0.019,
+      "snow_white": 0.106,
+      "brightness": 126.8,
+      "saturation": 116.3
+    },
+    "blur": 5776.79482539417,
+    "brightness": 126.8,
+    "text_detections": [],
+    "score": 85,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.6, texture_cv=0.16, entropy=0.995, saliency=0.08799999952316284)",
+      "Landscape with horizon + sky (42 lines, sky: 38%)",
+      "Water body visible (20%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/01_score085_02m12s_aerial_horizon_sky_water.jpg"
+  },
+  {
+    "timestamp": 134,
+    "time": "02:14",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.3739192708333333,
+    "has_horizon": true,
+    "horizon_count": 29,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.585,
+      "focus_cv": 0.634,
+      "focus_uniform": "False",
+      "texture_cv": 0.154,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 13,
+    "horiz_lines": 981,
+    "is_food_closeup": false,
+    "skin_ratio": 0.013,
+    "colors": {
+      "green": 0.585,
+      "water_blue": 0.202,
+      "earth_brown": 0.027,
+      "snow_white": 0.106,
+      "brightness": 124.0,
+      "saturation": 118.0
+    },
+    "blur": 5471.077174381509,
+    "brightness": 124.0,
+    "text_detections": [],
+    "score": 85,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.634, texture_cv=0.154, entropy=0.995, saliency=0.08699999749660492)",
+      "Landscape with horizon + sky (29 lines, sky: 37%)",
+      "Water body visible (20%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/02_score085_02m14s_aerial_horizon_sky_water.jpg"
+  },
+  {
+    "timestamp": 474,
+    "time": "07:54",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.48266927083333333,
+    "has_horizon": true,
+    "horizon_count": 19,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.63,
+      "focus_cv": 0.723,
+      "focus_uniform": "False",
+      "texture_cv": 0.418,
+      "texture_uniform": "True",
+      "edge_entropy": 0.968,
+      "edges_spread": "True",
+      "saliency_conc": "0.114",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 0,
+    "horiz_lines": 690,
+    "is_food_closeup": false,
+    "skin_ratio": 0.105,
+    "colors": {
+      "green": 0.63,
+      "water_blue": 0.016,
+      "earth_brown": 0.176,
+      "snow_white": 0.144,
+      "brightness": 113.7,
+      "saturation": 126.4
+    },
+    "blur": 1218.352088549786,
+    "brightness": 113.7,
+    "text_detections": [],
+    "score": 70,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "SKY"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.723, texture_cv=0.418, entropy=0.968, saliency=0.11400000005960464)",
+      "Landscape with horizon + sky (19 lines, sky: 48%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/03_score070_07m54s_aerial_horizon_sky.jpg"
+  },
+  {
+    "timestamp": 10,
+    "time": "00:10",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.030885416666666665,
+    "has_horizon": true,
+    "horizon_count": 5,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.764,
+      "focus_cv": 0.777,
+      "focus_uniform": "False",
+      "texture_cv": 0.393,
+      "texture_uniform": "True",
+      "edge_entropy": 0.968,
+      "edges_spread": "True",
+      "saliency_conc": "0.143",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 6,
+    "horiz_lines": 415,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.764,
+      "water_blue": 0.008,
+      "earth_brown": 0.005,
+      "snow_white": 0.007,
+      "brightness": 84.4,
+      "saturation": 197.0
+    },
+    "blur": 2362.209900159878,
+    "brightness": 84.4,
+    "text_detections": [
+      {
+        "text": "oeoco)",
+        "conf": 0.316,
+        "non_latin": false
+      },
+      {
+        "text": "frruifs",
+        "conf": 0.12,
+        "non_latin": false
+      },
+      {
+        "text": "Dongu",
+        "conf": 0.046,
+        "non_latin": false
+      },
+      {
+        "text": "(Cotlan",
+        "conf": 0.029,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.777, texture_cv=0.393, entropy=0.968, saliency=0.14300000667572021)",
+      "Horizon line detected (5 lines)",
+      "Readable text: oeoco)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/04_score065_00m10s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 12,
+    "time": "00:12",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0295703125,
+    "has_horizon": true,
+    "horizon_count": 6,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.771,
+      "focus_cv": 0.747,
+      "focus_uniform": "False",
+      "texture_cv": 0.391,
+      "texture_uniform": "True",
+      "edge_entropy": 0.969,
+      "edges_spread": "True",
+      "saliency_conc": "0.144",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 408,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.771,
+      "water_blue": 0.007,
+      "earth_brown": 0.004,
+      "snow_white": 0.007,
+      "brightness": 84.5,
+      "saturation": 195.1
+    },
+    "blur": 1717.857495641619,
+    "brightness": 84.5,
+    "text_detections": [
+      {
+        "text": "Ge0co)",
+        "conf": 0.587,
+        "non_latin": false
+      },
+      {
+        "text": "Gotfon fruifl",
+        "conf": 0.33,
+        "non_latin": false
+      },
+      {
+        "text": "un8-",
+        "conf": 0.344,
+        "non_latin": false
+      },
+      {
+        "text": "987g1",
+        "conf": 0.079,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.747, texture_cv=0.391, entropy=0.969, saliency=0.14399999380111694)",
+      "Horizon line detected (6 lines)",
+      "Readable text: Ge0co), Gotfon fruifl, un8-"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/05_score065_00m12s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 30,
+    "time": "00:30",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.19790364583333334,
+    "has_horizon": true,
+    "horizon_count": 7,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.711,
+      "focus_cv": 0.277,
+      "focus_uniform": "True",
+      "texture_cv": 0.204,
+      "texture_uniform": "True",
+      "edge_entropy": 0.992,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 12,
+    "horiz_lines": 746,
+    "is_food_closeup": false,
+    "skin_ratio": 0.01,
+    "colors": {
+      "green": 0.711,
+      "water_blue": 0.088,
+      "earth_brown": 0.004,
+      "snow_white": 0.147,
+      "brightness": 134.7,
+      "saturation": 149.6
+    },
+    "blur": 2715.8217545705543,
+    "brightness": 134.7,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.277, texture_cv=0.204, entropy=0.992, saliency=0.0860000029206276)",
+      "Landscape with horizon + sky (7 lines, sky: 20%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/06_score065_00m30s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 32,
+    "time": "00:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.16455729166666666,
+    "has_horizon": true,
+    "horizon_count": 6,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.747,
+      "focus_cv": 0.245,
+      "focus_uniform": "True",
+      "texture_cv": 0.2,
+      "texture_uniform": "True",
+      "edge_entropy": 0.992,
+      "edges_spread": "True",
+      "saliency_conc": "0.09",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 670,
+    "is_food_closeup": false,
+    "skin_ratio": 0.014,
+    "colors": {
+      "green": 0.747,
+      "water_blue": 0.081,
+      "earth_brown": 0.007,
+      "snow_white": 0.119,
+      "brightness": 127.8,
+      "saturation": 154.2
+    },
+    "blur": 2127.2866307273403,
+    "brightness": 127.8,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.245, texture_cv=0.2, entropy=0.992, saliency=0.09000000357627869)",
+      "Landscape with horizon + sky (6 lines, sky: 16%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/07_score065_00m32s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 82,
+    "time": "01:22",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.2060546875,
+    "has_horizon": true,
+    "horizon_count": 85,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.781,
+      "focus_cv": 0.944,
+      "focus_uniform": "False",
+      "texture_cv": 0.297,
+      "texture_uniform": "True",
+      "edge_entropy": 0.981,
+      "edges_spread": "True",
+      "saliency_conc": "0.128",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 23,
+    "horiz_lines": 979,
+    "is_food_closeup": false,
+    "skin_ratio": 0.019,
+    "colors": {
+      "green": 0.781,
+      "water_blue": 0.008,
+      "earth_brown": 0.027,
+      "snow_white": 0.067,
+      "brightness": 100.2,
+      "saturation": 163.5
+    },
+    "blur": 3357.9728982539236,
+    "brightness": 100.2,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.944, texture_cv=0.297, entropy=0.981, saliency=0.12800000607967377)",
+      "Landscape with horizon + sky (85 lines, sky: 21%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/08_score065_01m22s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 84,
+    "time": "01:24",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.20990885416666666,
+    "has_horizon": true,
+    "horizon_count": 61,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.763,
+      "focus_cv": 0.916,
+      "focus_uniform": "False",
+      "texture_cv": 0.299,
+      "texture_uniform": "True",
+      "edge_entropy": 0.98,
+      "edges_spread": "True",
+      "saliency_conc": "0.128",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 24,
+    "horiz_lines": 882,
+    "is_food_closeup": false,
+    "skin_ratio": 0.019,
+    "colors": {
+      "green": 0.763,
+      "water_blue": 0.01,
+      "earth_brown": 0.028,
+      "snow_white": 0.068,
+      "brightness": 98.4,
+      "saturation": 164.4
+    },
+    "blur": 3307.0825859905485,
+    "brightness": 98.4,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.916, texture_cv=0.299, entropy=0.98, saliency=0.12800000607967377)",
+      "Landscape with horizon + sky (61 lines, sky: 21%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/09_score065_01m24s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 158,
+    "time": "02:38",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.035455729166666665,
+    "has_horizon": true,
+    "horizon_count": 33,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.842,
+      "focus_cv": 0.714,
+      "focus_uniform": "False",
+      "texture_cv": 0.362,
+      "texture_uniform": "True",
+      "edge_entropy": 0.972,
+      "edges_spread": "True",
+      "saliency_conc": "0.076",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 17,
+    "horiz_lines": 670,
+    "is_food_closeup": false,
+    "skin_ratio": 0.027,
+    "colors": {
+      "green": 0.842,
+      "water_blue": 0.005,
+      "earth_brown": 0.042,
+      "snow_white": 0.01,
+      "brightness": 125.4,
+      "saturation": 153.0
+    },
+    "blur": 3121.894328918438,
+    "brightness": 125.4,
+    "text_detections": [
+      {
+        "text": "Moya come",
+        "conf": 0.655,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.714, texture_cv=0.362, entropy=0.972, saliency=0.07599999755620956)",
+      "Horizon line detected (33 lines)",
+      "Readable text: Moya come"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/10_score065_02m38s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 260,
+    "time": "04:20",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.10317708333333334,
+    "has_horizon": true,
+    "horizon_count": 22,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.515,
+      "focus_cv": 0.899,
+      "focus_uniform": "False",
+      "texture_cv": 0.411,
+      "texture_uniform": "True",
+      "edge_entropy": 0.963,
+      "edges_spread": "True",
+      "saliency_conc": "0.094",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 622,
+    "is_food_closeup": false,
+    "skin_ratio": 0.045,
+    "colors": {
+      "green": 0.515,
+      "water_blue": 0.04,
+      "earth_brown": 0.039,
+      "snow_white": 0.029,
+      "brightness": 124.2,
+      "saturation": 146.3
+    },
+    "blur": 1606.3366997874884,
+    "brightness": 124.2,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.899, texture_cv=0.411, entropy=0.963, saliency=0.09399999678134918)",
+      "Landscape with horizon + sky (22 lines, sky: 10%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/11_score065_04m20s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 262,
+    "time": "04:22",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.10173177083333333,
+    "has_horizon": true,
+    "horizon_count": 14,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.509,
+      "focus_cv": 0.965,
+      "focus_uniform": "False",
+      "texture_cv": 0.407,
+      "texture_uniform": "True",
+      "edge_entropy": 0.963,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 604,
+    "is_food_closeup": false,
+    "skin_ratio": 0.042,
+    "colors": {
+      "green": 0.509,
+      "water_blue": 0.041,
+      "earth_brown": 0.039,
+      "snow_white": 0.029,
+      "brightness": 123.2,
+      "saturation": 145.7
+    },
+    "blur": 2373.813145846727,
+    "brightness": 123.2,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.965, texture_cv=0.407, entropy=0.963, saliency=0.08699999749660492)",
+      "Landscape with horizon + sky (14 lines, sky: 10%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/12_score065_04m22s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 294,
+    "time": "04:54",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.10045572916666666,
+    "has_horizon": true,
+    "horizon_count": 5,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.665,
+      "focus_cv": 1.319,
+      "focus_uniform": "False",
+      "texture_cv": 0.403,
+      "texture_uniform": "True",
+      "edge_entropy": 0.962,
+      "edges_spread": "True",
+      "saliency_conc": "0.085",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 12,
+    "horiz_lines": 305,
+    "is_food_closeup": false,
+    "skin_ratio": 0.036,
+    "colors": {
+      "green": 0.665,
+      "water_blue": 0.079,
+      "earth_brown": 0.026,
+      "snow_white": 0.017,
+      "brightness": 130.0,
+      "saturation": 147.5
+    },
+    "blur": 1080.470089245078,
+    "brightness": 130.0,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.319, texture_cv=0.403, entropy=0.962, saliency=0.08500000089406967)",
+      "Landscape with horizon + sky (5 lines, sky: 10%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/13_score065_04m54s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 322,
+    "time": "05:22",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.132578125,
+    "has_horizon": true,
+    "horizon_count": 21,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.766,
+      "focus_cv": 0.572,
+      "focus_uniform": "True",
+      "texture_cv": 0.257,
+      "texture_uniform": "True",
+      "edge_entropy": 0.988,
+      "edges_spread": "True",
+      "saliency_conc": "0.092",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 36,
+    "horiz_lines": 759,
+    "is_food_closeup": false,
+    "skin_ratio": 0.026,
+    "colors": {
+      "green": 0.766,
+      "water_blue": 0.014,
+      "earth_brown": 0.04,
+      "snow_white": 0.074,
+      "brightness": 145.6,
+      "saturation": 140.9
+    },
+    "blur": 2369.807864255081,
+    "brightness": 145.6,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.572, texture_cv=0.257, entropy=0.988, saliency=0.09200000017881393)",
+      "Landscape with horizon + sky (21 lines, sky: 13%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/14_score065_05m22s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 632,
+    "time": "10:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.00010416666666666667,
+    "has_horizon": true,
+    "horizon_count": 12,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.365,
+      "focus_cv": 0.434,
+      "focus_uniform": "True",
+      "texture_cv": 0.171,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.081",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 33,
+    "horiz_lines": 949,
+    "is_food_closeup": false,
+    "skin_ratio": 0.05,
+    "colors": {
+      "green": 0.365,
+      "water_blue": 0.0,
+      "earth_brown": 0.199,
+      "snow_white": 0.0,
+      "brightness": 86.9,
+      "saturation": 208.6
+    },
+    "blur": 3767.0286644958496,
+    "brightness": 86.9,
+    "text_detections": [
+      {
+        "text": "28 08",
+        "conf": 0.191,
+        "non_latin": false
+      },
+      {
+        "text": "Walijhaluca",
+        "conf": 0.462,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.434, texture_cv=0.171, entropy=0.995, saliency=0.08100000023841858)",
+      "Horizon line detected (12 lines)",
+      "Readable text: Walijhaluca"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/15_score065_10m32s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 704,
+    "time": "11:44",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.2112890625,
+    "has_horizon": true,
+    "horizon_count": 9,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.715,
+      "focus_cv": 0.32,
+      "focus_uniform": "True",
+      "texture_cv": 0.216,
+      "texture_uniform": "True",
+      "edge_entropy": 0.991,
+      "edges_spread": "True",
+      "saliency_conc": "0.089",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 21,
+    "horiz_lines": 842,
+    "is_food_closeup": false,
+    "skin_ratio": 0.023,
+    "colors": {
+      "green": 0.715,
+      "water_blue": 0.127,
+      "earth_brown": 0.041,
+      "snow_white": 0.006,
+      "brightness": 113.2,
+      "saturation": 158.4
+    },
+    "blur": 4328.680118937004,
+    "brightness": 113.2,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.32, texture_cv=0.216, entropy=0.991, saliency=0.08900000154972076)",
+      "Landscape with horizon + sky (9 lines, sky: 21%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/16_score065_11m44s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 706,
+    "time": "11:46",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.1925,
+    "has_horizon": true,
+    "horizon_count": 4,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.671,
+      "focus_cv": 0.476,
+      "focus_uniform": "True",
+      "texture_cv": 0.344,
+      "texture_uniform": "True",
+      "edge_entropy": 0.977,
+      "edges_spread": "True",
+      "saliency_conc": "0.09",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 19,
+    "horiz_lines": 857,
+    "is_food_closeup": false,
+    "skin_ratio": 0.019,
+    "colors": {
+      "green": 0.671,
+      "water_blue": 0.112,
+      "earth_brown": 0.043,
+      "snow_white": 0.005,
+      "brightness": 105.4,
+      "saturation": 159.6
+    },
+    "blur": 3629.502038725658,
+    "brightness": 105.4,
+    "text_detections": [],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.476, texture_cv=0.344, entropy=0.977, saliency=0.09000000357627869)",
+      "Landscape with horizon + sky (4 lines, sky: 19%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/17_score065_11m46s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1072,
+    "time": "17:52",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.000703125,
+    "has_horizon": true,
+    "horizon_count": 75,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.937,
+      "focus_cv": 0.611,
+      "focus_uniform": "False",
+      "texture_cv": 0.345,
+      "texture_uniform": "True",
+      "edge_entropy": 0.978,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 23,
+    "horiz_lines": 818,
+    "is_food_closeup": false,
+    "skin_ratio": 0.025,
+    "colors": {
+      "green": 0.937,
+      "water_blue": 0.001,
+      "earth_brown": 0.03,
+      "snow_white": 0.0,
+      "brightness": 99.8,
+      "saturation": 147.5
+    },
+    "blur": 1291.8424520669823,
+    "brightness": 99.8,
+    "text_detections": [
+      {
+        "text": "Hello moya:",
+        "conf": 0.509,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.611, texture_cv=0.345, entropy=0.978, saliency=0.0860000029206276)",
+      "Horizon line detected (75 lines)",
+      "Readable text: Hello moya:"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/18_score065_17m52s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 1410,
+    "time": "23:30",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0182421875,
+    "has_horizon": true,
+    "horizon_count": 41,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.596,
+      "focus_cv": 0.649,
+      "focus_uniform": "False",
+      "texture_cv": 0.433,
+      "texture_uniform": "True",
+      "edge_entropy": 0.958,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 61,
+    "horiz_lines": 678,
+    "is_food_closeup": false,
+    "skin_ratio": 0.068,
+    "colors": {
+      "green": 0.596,
+      "water_blue": 0.002,
+      "earth_brown": 0.159,
+      "snow_white": 0.004,
+      "brightness": 109.9,
+      "saturation": 139.1
+    },
+    "blur": 4902.965166335041,
+    "brightness": 109.9,
+    "text_detections": [
+      {
+        "text": "come tor tea",
+        "conf": 0.832,
+        "non_latin": false
+      }
+    ],
+    "score": 65,
+    "tags": [
+      "AERIAL",
+      "HORIZON",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.649, texture_cv=0.433, entropy=0.958, saliency=0.08699999749660492)",
+      "Horizon line detected (41 lines)",
+      "Readable text: come tor tea"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/19_score065_23m30s_aerial_horizon_text.jpg"
+  },
+  {
+    "timestamp": 166,
+    "time": "02:46",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.5206770833333333,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.655,
+      "focus_cv": 0.618,
+      "focus_uniform": "False",
+      "texture_cv": 0.225,
+      "texture_uniform": "True",
+      "edge_entropy": 0.99,
+      "edges_spread": "True",
+      "saliency_conc": "0.077",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 3,
+    "horiz_lines": 295,
+    "is_food_closeup": false,
+    "skin_ratio": 0.042,
+    "colors": {
+      "green": 0.655,
+      "water_blue": 0.188,
+      "earth_brown": 0.015,
+      "snow_white": 0.147,
+      "brightness": 158.3,
+      "saturation": 121.4
+    },
+    "blur": 792.4776557556152,
+    "brightness": 158.3,
+    "text_detections": [
+      {
+        "text": "536",
+        "conf": 0.198,
+        "non_latin": false
+      },
+      {
+        "text": "Cet",
+        "conf": 0.059,
+        "non_latin": false
+      }
+    ],
+    "score": 60,
+    "tags": [
+      "AERIAL",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.618, texture_cv=0.225, entropy=0.99, saliency=0.07699999958276749)",
+      "Water body visible (19%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/20_score060_02m46s_aerial_sky_water.jpg"
+  },
+  {
+    "timestamp": 168,
+    "time": "02:48",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.5019140625,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.638,
+      "focus_cv": 0.582,
+      "focus_uniform": "True",
+      "texture_cv": 0.28,
+      "texture_uniform": "True",
+      "edge_entropy": 0.984,
+      "edges_spread": "True",
+      "saliency_conc": "0.077",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 207,
+    "is_food_closeup": false,
+    "skin_ratio": 0.087,
+    "colors": {
+      "green": 0.638,
+      "water_blue": 0.155,
+      "earth_brown": 0.028,
+      "snow_white": 0.142,
+      "brightness": 158.1,
+      "saturation": 115.9
+    },
+    "blur": 631.7634603880139,
+    "brightness": 158.1,
+    "text_detections": [],
+    "score": 60,
+    "tags": [
+      "AERIAL",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.582, texture_cv=0.28, entropy=0.984, saliency=0.07699999958276749)",
+      "Water body visible (16%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/21_score060_02m48s_aerial_sky_water.jpg"
+  },
+  {
+    "timestamp": 40,
+    "time": "00:40",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.093515625,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.647,
+      "focus_cv": 1.04,
+      "focus_uniform": "False",
+      "texture_cv": 0.468,
+      "texture_uniform": "True",
+      "edge_entropy": 0.956,
+      "edges_spread": "True",
+      "saliency_conc": "0.091",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 275,
+    "is_food_closeup": false,
+    "skin_ratio": 0.012,
+    "colors": {
+      "green": 0.647,
+      "water_blue": 0.078,
+      "earth_brown": 0.007,
+      "snow_white": 0.098,
+      "brightness": 99.6,
+      "saturation": 144.3
+    },
+    "blur": 1219.4914898003285,
+    "brightness": 99.6,
+    "text_detections": [
+      {
+        "text": "Here sistercatch this.",
+        "conf": 0.666,
+        "non_latin": false
+      }
+    ],
+    "score": 55,
+    "tags": [
+      "AERIAL",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.04, texture_cv=0.468, entropy=0.956, saliency=0.09099999815225601)",
+      "Readable text: Here sistercatch this."
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/22_score055_00m40s_aerial_text.jpg"
+  },
+  {
+    "timestamp": 148,
+    "time": "02:28",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.157890625,
+    "has_horizon": false,
+    "horizon_count": 1,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.865,
+      "focus_cv": 0.623,
+      "focus_uniform": "False",
+      "texture_cv": 0.249,
+      "texture_uniform": "True",
+      "edge_entropy": 0.988,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 339,
+    "is_food_closeup": false,
+    "skin_ratio": 0.028,
+    "colors": {
+      "green": 0.865,
+      "water_blue": 0.005,
+      "earth_brown": 0.043,
+      "snow_white": 0.05,
+      "brightness": 141.7,
+      "saturation": 171.6
+    },
+    "blur": 714.0680502881463,
+    "brightness": 141.7,
+    "text_detections": [
+      {
+        "text": "EoooroJ",
+        "conf": 0.083,
+        "non_latin": false
+      },
+      {
+        "text": "Sjur",
+        "conf": 0.899,
+        "non_latin": false
+      }
+    ],
+    "score": 55,
+    "tags": [
+      "AERIAL",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.623, texture_cv=0.249, entropy=0.988, saliency=0.08699999749660492)",
+      "Readable text: Sjur"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/23_score055_02m28s_aerial_text.jpg"
+  },
+  {
+    "timestamp": 1076,
+    "time": "17:56",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 3.90625e-05,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.6,
+      "focus_cv": 0.837,
+      "focus_uniform": "False",
+      "texture_cv": 0.422,
+      "texture_uniform": "True",
+      "edge_entropy": 0.964,
+      "edges_spread": "True",
+      "saliency_conc": "0.093",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 136,
+    "is_food_closeup": false,
+    "skin_ratio": 0.04,
+    "colors": {
+      "green": 0.6,
+      "water_blue": 0.002,
+      "earth_brown": 0.082,
+      "snow_white": 0.0,
+      "brightness": 92.1,
+      "saturation": 207.2
+    },
+    "blur": 365.92422229861046,
+    "brightness": 92.1,
+    "text_detections": [
+      {
+        "text": "045123",
+        "conf": 0.064,
+        "non_latin": false
+      },
+      {
+        "text": "Achech benets",
+        "conf": 0.344,
+        "non_latin": false
+      }
+    ],
+    "score": 55,
+    "tags": [
+      "AERIAL",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.837, texture_cv=0.422, entropy=0.964, saliency=0.09300000220537186)",
+      "Readable text: Achech benets"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/24_score055_17m56s_aerial_text.jpg"
+  },
+  {
+    "timestamp": 1412,
+    "time": "23:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0054296875,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.734,
+      "focus_cv": 0.941,
+      "focus_uniform": "False",
+      "texture_cv": 0.4,
+      "texture_uniform": "True",
+      "edge_entropy": 0.966,
+      "edges_spread": "True",
+      "saliency_conc": "0.074",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 3,
+    "horiz_lines": 294,
+    "is_food_closeup": false,
+    "skin_ratio": 0.08,
+    "colors": {
+      "green": 0.734,
+      "water_blue": 0.026,
+      "earth_brown": 0.074,
+      "snow_white": 0.001,
+      "brightness": 130.4,
+      "saturation": 142.2
+    },
+    "blur": 1221.3217552196174,
+    "brightness": 130.4,
+    "text_detections": [
+      {
+        "text": "Let'$ g0 Menika",
+        "conf": 0.508,
+        "non_latin": false
+      }
+    ],
+    "score": 55,
+    "tags": [
+      "AERIAL",
+      "TEXT"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.941, texture_cv=0.4, entropy=0.966, saliency=0.07400000095367432)",
+      "Readable text: Let'$ g0 Menika"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/25_score055_23m32s_aerial_text.jpg"
+  },
+  {
+    "timestamp": 8,
+    "time": "00:08",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0934375,
+    "has_horizon": true,
+    "horizon_count": 9,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.808,
+      "focus_cv": 0.39,
+      "focus_uniform": "True",
+      "texture_cv": 0.144,
+      "texture_uniform": "True",
+      "edge_entropy": 0.996,
+      "edges_spread": "True",
+      "saliency_conc": "0.085",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 1,
+    "horiz_lines": 707,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.808,
+      "water_blue": 0.003,
+      "earth_brown": 0.005,
+      "snow_white": 0.113,
+      "brightness": 135.9,
+      "saturation": 167.6
+    },
+    "blur": 1557.528588172065,
+    "brightness": 135.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.39, texture_cv=0.144, entropy=0.996, saliency=0.08500000089406967)",
+      "Horizon line detected (9 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/26_score050_00m08s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 24,
+    "time": "00:24",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0154296875,
+    "has_horizon": true,
+    "horizon_count": 3,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.521,
+      "focus_cv": 1.258,
+      "focus_uniform": "False",
+      "texture_cv": 0.35,
+      "texture_uniform": "True",
+      "edge_entropy": 0.977,
+      "edges_spread": "True",
+      "saliency_conc": "0.126",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 468,
+    "is_food_closeup": false,
+    "skin_ratio": 0.054,
+    "colors": {
+      "green": 0.521,
+      "water_blue": 0.016,
+      "earth_brown": 0.081,
+      "snow_white": 0.013,
+      "brightness": 80.6,
+      "saturation": 168.4
+    },
+    "blur": 1665.8284430984872,
+    "brightness": 80.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.258, texture_cv=0.35, entropy=0.977, saliency=0.12600000202655792)",
+      "Horizon line detected (3 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/27_score050_00m24s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 38,
+    "time": "00:38",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.015716145833333334,
+    "has_horizon": true,
+    "horizon_count": 7,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.606,
+      "focus_cv": 1.13,
+      "focus_uniform": "False",
+      "texture_cv": 0.308,
+      "texture_uniform": "True",
+      "edge_entropy": 0.982,
+      "edges_spread": "True",
+      "saliency_conc": "0.107",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 7,
+    "horiz_lines": 538,
+    "is_food_closeup": false,
+    "skin_ratio": 0.071,
+    "colors": {
+      "green": 0.606,
+      "water_blue": 0.004,
+      "earth_brown": 0.106,
+      "snow_white": 0.014,
+      "brightness": 80.0,
+      "saturation": 154.4
+    },
+    "blur": 1760.1813563164417,
+    "brightness": 80.0,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.13, texture_cv=0.308, entropy=0.982, saliency=0.10700000077486038)",
+      "Horizon line detected (7 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/28_score050_00m38s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 66,
+    "time": "01:06",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.019140625,
+    "has_horizon": true,
+    "horizon_count": 27,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.592,
+      "focus_cv": 0.461,
+      "focus_uniform": "True",
+      "texture_cv": 0.117,
+      "texture_uniform": "True",
+      "edge_entropy": 0.998,
+      "edges_spread": "True",
+      "saliency_conc": "0.082",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 1074,
+    "is_food_closeup": false,
+    "skin_ratio": 0.061,
+    "colors": {
+      "green": 0.592,
+      "water_blue": 0.001,
+      "earth_brown": 0.136,
+      "snow_white": 0.006,
+      "brightness": 83.4,
+      "saturation": 171.1
+    },
+    "blur": 5504.071256372899,
+    "brightness": 83.4,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.461, texture_cv=0.117, entropy=0.998, saliency=0.0820000022649765)",
+      "Horizon line detected (27 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/29_score050_01m06s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 68,
+    "time": "01:08",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.019778645833333334,
+    "has_horizon": true,
+    "horizon_count": 16,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.601,
+      "focus_cv": 0.477,
+      "focus_uniform": "True",
+      "texture_cv": 0.118,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.083",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 9,
+    "horiz_lines": 1034,
+    "is_food_closeup": false,
+    "skin_ratio": 0.058,
+    "colors": {
+      "green": 0.601,
+      "water_blue": 0.005,
+      "earth_brown": 0.141,
+      "snow_white": 0.006,
+      "brightness": 83.6,
+      "saturation": 170.2
+    },
+    "blur": 4542.894493127874,
+    "brightness": 83.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.477, texture_cv=0.118, entropy=0.997, saliency=0.08299999684095383)",
+      "Horizon line detected (16 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/30_score050_01m08s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 86,
+    "time": "01:26",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0011588541666666668,
+    "has_horizon": true,
+    "horizon_count": 61,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.896,
+      "focus_cv": 0.569,
+      "focus_uniform": "True",
+      "texture_cv": 0.133,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 10,
+    "horiz_lines": 1129,
+    "is_food_closeup": false,
+    "skin_ratio": 0.006,
+    "colors": {
+      "green": 0.896,
+      "water_blue": 0.0,
+      "earth_brown": 0.01,
+      "snow_white": 0.0,
+      "brightness": 99.8,
+      "saturation": 192.7
+    },
+    "blur": 1277.4775383608028,
+    "brightness": 99.8,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.569, texture_cv=0.133, entropy=0.997, saliency=0.08699999749660492)",
+      "Horizon line detected (61 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/31_score050_01m26s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 88,
+    "time": "01:28",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0005338541666666666,
+    "has_horizon": true,
+    "horizon_count": 46,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.902,
+      "focus_cv": 0.626,
+      "focus_uniform": "False",
+      "texture_cv": 0.144,
+      "texture_uniform": "True",
+      "edge_entropy": 0.996,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 9,
+    "horiz_lines": 991,
+    "is_food_closeup": false,
+    "skin_ratio": 0.006,
+    "colors": {
+      "green": 0.902,
+      "water_blue": 0.0,
+      "earth_brown": 0.008,
+      "snow_white": 0.0,
+      "brightness": 99.1,
+      "saturation": 193.2
+    },
+    "blur": 1146.4735433295166,
+    "brightness": 99.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.626, texture_cv=0.144, entropy=0.996, saliency=0.08399999886751175)",
+      "Horizon line detected (46 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/32_score050_01m28s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 92,
+    "time": "01:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0,
+    "has_horizon": true,
+    "horizon_count": 104,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.973,
+      "focus_cv": 0.583,
+      "focus_uniform": "True",
+      "texture_cv": 0.142,
+      "texture_uniform": "True",
+      "edge_entropy": 0.996,
+      "edges_spread": "True",
+      "saliency_conc": "0.08",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 61,
+    "horiz_lines": 1032,
+    "is_food_closeup": false,
+    "skin_ratio": 0.005,
+    "colors": {
+      "green": 0.973,
+      "water_blue": 0.001,
+      "earth_brown": 0.014,
+      "snow_white": 0.0,
+      "brightness": 116.9,
+      "saturation": 220.4
+    },
+    "blur": 1345.1032328204683,
+    "brightness": 116.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.583, texture_cv=0.142, entropy=0.996, saliency=0.07999999821186066)",
+      "Horizon line detected (104 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/33_score050_01m32s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 94,
+    "time": "01:34",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0,
+    "has_horizon": true,
+    "horizon_count": 86,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.978,
+      "focus_cv": 0.626,
+      "focus_uniform": "False",
+      "texture_cv": 0.197,
+      "texture_uniform": "True",
+      "edge_entropy": 0.993,
+      "edges_spread": "True",
+      "saliency_conc": "0.083",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 49,
+    "horiz_lines": 941,
+    "is_food_closeup": false,
+    "skin_ratio": 0.004,
+    "colors": {
+      "green": 0.978,
+      "water_blue": 0.001,
+      "earth_brown": 0.013,
+      "snow_white": 0.0,
+      "brightness": 118.1,
+      "saturation": 219.4
+    },
+    "blur": 750.3910124583305,
+    "brightness": 118.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.626, texture_cv=0.197, entropy=0.993, saliency=0.08299999684095383)",
+      "Horizon line detected (86 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/34_score050_01m34s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 96,
+    "time": "01:36",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 2.604166666666667e-05,
+    "has_horizon": true,
+    "horizon_count": 38,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.95,
+      "focus_cv": 0.546,
+      "focus_uniform": "True",
+      "texture_cv": 0.127,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 14,
+    "horiz_lines": 971,
+    "is_food_closeup": false,
+    "skin_ratio": 0.003,
+    "colors": {
+      "green": 0.95,
+      "water_blue": 0.0,
+      "earth_brown": 0.005,
+      "snow_white": 0.0,
+      "brightness": 120.2,
+      "saturation": 219.1
+    },
+    "blur": 903.821724767313,
+    "brightness": 120.2,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.546, texture_cv=0.127, entropy=0.997, saliency=0.0860000029206276)",
+      "Horizon line detected (38 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/35_score050_01m36s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 98,
+    "time": "01:38",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0007161458333333333,
+    "has_horizon": true,
+    "horizon_count": 62,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.976,
+      "focus_cv": 0.568,
+      "focus_uniform": "True",
+      "texture_cv": 0.216,
+      "texture_uniform": "True",
+      "edge_entropy": 0.991,
+      "edges_spread": "True",
+      "saliency_conc": "0.078",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 30,
+    "horiz_lines": 1022,
+    "is_food_closeup": false,
+    "skin_ratio": 0.003,
+    "colors": {
+      "green": 0.976,
+      "water_blue": 0.0,
+      "earth_brown": 0.006,
+      "snow_white": 0.0,
+      "brightness": 118.0,
+      "saturation": 211.5
+    },
+    "blur": 1156.7676591905386,
+    "brightness": 118.0,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.568, texture_cv=0.216, entropy=0.991, saliency=0.07800000160932541)",
+      "Horizon line detected (62 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/36_score050_01m38s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 100,
+    "time": "01:40",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 1.3020833333333334e-05,
+    "has_horizon": true,
+    "horizon_count": 47,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.961,
+      "focus_cv": 0.537,
+      "focus_uniform": "True",
+      "texture_cv": 0.302,
+      "texture_uniform": "True",
+      "edge_entropy": 0.978,
+      "edges_spread": "True",
+      "saliency_conc": "0.079",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 763,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.961,
+      "water_blue": 0.002,
+      "earth_brown": 0.017,
+      "snow_white": 0.0,
+      "brightness": 117.7,
+      "saturation": 206.8
+    },
+    "blur": 984.9177343713075,
+    "brightness": 117.7,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.537, texture_cv=0.302, entropy=0.978, saliency=0.07900000363588333)",
+      "Horizon line detected (47 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/37_score050_01m40s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 102,
+    "time": "01:42",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0,
+    "has_horizon": true,
+    "horizon_count": 36,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.973,
+      "focus_cv": 0.582,
+      "focus_uniform": "True",
+      "texture_cv": 0.505,
+      "texture_uniform": "False",
+      "edge_entropy": 0.94,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 46,
+    "horiz_lines": 676,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.973,
+      "water_blue": 0.001,
+      "earth_brown": 0.016,
+      "snow_white": 0.0,
+      "brightness": 121.6,
+      "saturation": 206.0
+    },
+    "blur": 602.5880106494857,
+    "brightness": 121.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.582, texture_cv=0.505, entropy=0.94, saliency=0.0860000029206276)",
+      "Horizon line detected (36 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/38_score050_01m42s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 104,
+    "time": "01:44",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.009049479166666667,
+    "has_horizon": true,
+    "horizon_count": 51,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.768,
+      "focus_cv": 0.522,
+      "focus_uniform": "True",
+      "texture_cv": 0.302,
+      "texture_uniform": "True",
+      "edge_entropy": 0.981,
+      "edges_spread": "True",
+      "saliency_conc": "0.081",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 820,
+    "is_food_closeup": false,
+    "skin_ratio": 0.045,
+    "colors": {
+      "green": 0.768,
+      "water_blue": 0.0,
+      "earth_brown": 0.03,
+      "snow_white": 0.004,
+      "brightness": 93.3,
+      "saturation": 211.2
+    },
+    "blur": 2485.535724690285,
+    "brightness": 93.3,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.522, texture_cv=0.302, entropy=0.981, saliency=0.08100000023841858)",
+      "Horizon line detected (51 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/39_score050_01m44s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 108,
+    "time": "01:48",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.005546875,
+    "has_horizon": true,
+    "horizon_count": 5,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.69,
+      "focus_cv": 0.35,
+      "focus_uniform": "True",
+      "texture_cv": 0.136,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.096",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 822,
+    "is_food_closeup": false,
+    "skin_ratio": 0.056,
+    "colors": {
+      "green": 0.69,
+      "water_blue": 0.001,
+      "earth_brown": 0.043,
+      "snow_white": 0.005,
+      "brightness": 88.2,
+      "saturation": 170.9
+    },
+    "blur": 5380.470990210846,
+    "brightness": 88.2,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.35, texture_cv=0.136, entropy=0.997, saliency=0.09600000083446503)",
+      "Horizon line detected (5 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/40_score050_01m48s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 118,
+    "time": "01:58",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.025169270833333333,
+    "has_horizon": true,
+    "horizon_count": 7,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.7,
+      "focus_cv": 0.321,
+      "focus_uniform": "True",
+      "texture_cv": 0.191,
+      "texture_uniform": "True",
+      "edge_entropy": 0.993,
+      "edges_spread": "True",
+      "saliency_conc": "0.073",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 7,
+    "horiz_lines": 781,
+    "is_food_closeup": false,
+    "skin_ratio": 0.083,
+    "colors": {
+      "green": 0.7,
+      "water_blue": 0.023,
+      "earth_brown": 0.168,
+      "snow_white": 0.003,
+      "brightness": 100.9,
+      "saturation": 150.4
+    },
+    "blur": 1188.1213992038115,
+    "brightness": 100.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.321, texture_cv=0.191, entropy=0.993, saliency=0.0729999989271164)",
+      "Horizon line detected (7 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/41_score050_01m58s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 142,
+    "time": "02:22",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.005651041666666667,
+    "has_horizon": true,
+    "horizon_count": 22,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.95,
+      "focus_cv": 0.512,
+      "focus_uniform": "True",
+      "texture_cv": 0.158,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.077",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 25,
+    "horiz_lines": 942,
+    "is_food_closeup": false,
+    "skin_ratio": 0.007,
+    "colors": {
+      "green": 0.95,
+      "water_blue": 0.0,
+      "earth_brown": 0.012,
+      "snow_white": 0.002,
+      "brightness": 126.6,
+      "saturation": 171.4
+    },
+    "blur": 3048.569479464985,
+    "brightness": 126.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.512, texture_cv=0.158, entropy=0.995, saliency=0.07699999958276749)",
+      "Horizon line detected (22 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/42_score050_02m22s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 144,
+    "time": "02:24",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.005520833333333333,
+    "has_horizon": true,
+    "horizon_count": 24,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.96,
+      "focus_cv": 0.512,
+      "focus_uniform": "True",
+      "texture_cv": 0.186,
+      "texture_uniform": "True",
+      "edge_entropy": 0.994,
+      "edges_spread": "True",
+      "saliency_conc": "0.077",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 17,
+    "horiz_lines": 979,
+    "is_food_closeup": false,
+    "skin_ratio": 0.005,
+    "colors": {
+      "green": 0.96,
+      "water_blue": 0.0,
+      "earth_brown": 0.01,
+      "snow_white": 0.002,
+      "brightness": 128.5,
+      "saturation": 171.1
+    },
+    "blur": 2387.8700409613716,
+    "brightness": 128.5,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.512, texture_cv=0.186, entropy=0.994, saliency=0.07699999958276749)",
+      "Horizon line detected (24 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/43_score050_02m24s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 146,
+    "time": "02:26",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.014635416666666666,
+    "has_horizon": true,
+    "horizon_count": 4,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.768,
+      "focus_cv": 0.452,
+      "focus_uniform": "True",
+      "texture_cv": 0.181,
+      "texture_uniform": "True",
+      "edge_entropy": 0.994,
+      "edges_spread": "True",
+      "saliency_conc": "0.075",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 23,
+    "horiz_lines": 801,
+    "is_food_closeup": false,
+    "skin_ratio": 0.027,
+    "colors": {
+      "green": 0.768,
+      "water_blue": 0.014,
+      "earth_brown": 0.037,
+      "snow_white": 0.009,
+      "brightness": 105.6,
+      "saturation": 167.8
+    },
+    "blur": 2944.2903894663873,
+    "brightness": 105.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.452, texture_cv=0.181, entropy=0.994, saliency=0.07500000298023224)",
+      "Horizon line detected (4 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/44_score050_02m26s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 156,
+    "time": "02:36",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.03606770833333333,
+    "has_horizon": true,
+    "horizon_count": 32,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.84,
+      "focus_cv": 0.702,
+      "focus_uniform": "False",
+      "texture_cv": 0.354,
+      "texture_uniform": "True",
+      "edge_entropy": 0.973,
+      "edges_spread": "True",
+      "saliency_conc": "0.076",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 23,
+    "horiz_lines": 733,
+    "is_food_closeup": false,
+    "skin_ratio": 0.024,
+    "colors": {
+      "green": 0.84,
+      "water_blue": 0.005,
+      "earth_brown": 0.034,
+      "snow_white": 0.011,
+      "brightness": 125.7,
+      "saturation": 151.9
+    },
+    "blur": 3128.2029424803936,
+    "brightness": 125.7,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.702, texture_cv=0.354, entropy=0.973, saliency=0.07599999755620956)",
+      "Horizon line detected (32 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/45_score050_02m36s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 226,
+    "time": "03:46",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0060026041666666665,
+    "has_horizon": true,
+    "horizon_count": 17,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.592,
+      "focus_cv": 0.93,
+      "focus_uniform": "False",
+      "texture_cv": 0.353,
+      "texture_uniform": "True",
+      "edge_entropy": 0.976,
+      "edges_spread": "True",
+      "saliency_conc": "0.078",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 3,
+    "horiz_lines": 665,
+    "is_food_closeup": false,
+    "skin_ratio": 0.046,
+    "colors": {
+      "green": 0.592,
+      "water_blue": 0.008,
+      "earth_brown": 0.043,
+      "snow_white": 0.011,
+      "brightness": 106.5,
+      "saturation": 160.8
+    },
+    "blur": 1406.671331293101,
+    "brightness": 106.5,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.93, texture_cv=0.353, entropy=0.976, saliency=0.07800000160932541)",
+      "Horizon line detected (17 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/46_score050_03m46s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 228,
+    "time": "03:48",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.009361979166666666,
+    "has_horizon": true,
+    "horizon_count": 24,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.591,
+      "focus_cv": 0.862,
+      "focus_uniform": "False",
+      "texture_cv": 0.352,
+      "texture_uniform": "True",
+      "edge_entropy": 0.977,
+      "edges_spread": "True",
+      "saliency_conc": "0.079",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 2,
+    "horiz_lines": 642,
+    "is_food_closeup": false,
+    "skin_ratio": 0.04,
+    "colors": {
+      "green": 0.591,
+      "water_blue": 0.008,
+      "earth_brown": 0.044,
+      "snow_white": 0.012,
+      "brightness": 105.0,
+      "saturation": 160.9
+    },
+    "blur": 1250.8857802191085,
+    "brightness": 105.0,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.862, texture_cv=0.352, entropy=0.977, saliency=0.07900000363588333)",
+      "Horizon line detected (24 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/47_score050_03m48s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 524,
+    "time": "08:44",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.07772135416666667,
+    "has_horizon": true,
+    "horizon_count": 3,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.58,
+      "focus_cv": 0.607,
+      "focus_uniform": "False",
+      "texture_cv": 0.272,
+      "texture_uniform": "True",
+      "edge_entropy": 0.984,
+      "edges_spread": "True",
+      "saliency_conc": "0.095",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 565,
+    "is_food_closeup": false,
+    "skin_ratio": 0.035,
+    "colors": {
+      "green": 0.58,
+      "water_blue": 0.097,
+      "earth_brown": 0.058,
+      "snow_white": 0.021,
+      "brightness": 101.7,
+      "saturation": 155.3
+    },
+    "blur": 2215.3936000567965,
+    "brightness": 101.7,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.607, texture_cv=0.272, entropy=0.984, saliency=0.0949999988079071)",
+      "Horizon line detected (3 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/48_score050_08m44s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 592,
+    "time": "09:52",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.00078125,
+    "has_horizon": true,
+    "horizon_count": 10,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.546,
+      "focus_cv": 1.016,
+      "focus_uniform": "False",
+      "texture_cv": 0.415,
+      "texture_uniform": "True",
+      "edge_entropy": 0.968,
+      "edges_spread": "True",
+      "saliency_conc": "0.079",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 418,
+    "is_food_closeup": false,
+    "skin_ratio": 0.061,
+    "colors": {
+      "green": 0.546,
+      "water_blue": 0.015,
+      "earth_brown": 0.078,
+      "snow_white": 0.01,
+      "brightness": 87.9,
+      "saturation": 164.2
+    },
+    "blur": 2188.5163795224603,
+    "brightness": 87.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.016, texture_cv=0.415, entropy=0.968, saliency=0.07900000363588333)",
+      "Horizon line detected (10 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/49_score050_09m52s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 594,
+    "time": "09:54",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0003385416666666667,
+    "has_horizon": true,
+    "horizon_count": 4,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.548,
+      "focus_cv": 0.849,
+      "focus_uniform": "False",
+      "texture_cv": 0.409,
+      "texture_uniform": "True",
+      "edge_entropy": 0.968,
+      "edges_spread": "True",
+      "saliency_conc": "0.08",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 9,
+    "horiz_lines": 470,
+    "is_food_closeup": false,
+    "skin_ratio": 0.052,
+    "colors": {
+      "green": 0.548,
+      "water_blue": 0.017,
+      "earth_brown": 0.082,
+      "snow_white": 0.01,
+      "brightness": 87.6,
+      "saturation": 164.4
+    },
+    "blur": 1761.2551989316396,
+    "brightness": 87.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.849, texture_cv=0.409, entropy=0.968, saliency=0.07999999821186066)",
+      "Horizon line detected (4 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/50_score050_09m54s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 678,
+    "time": "11:18",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.00010416666666666667,
+    "has_horizon": true,
+    "horizon_count": 17,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.695,
+      "focus_cv": 0.709,
+      "focus_uniform": "False",
+      "texture_cv": 0.329,
+      "texture_uniform": "True",
+      "edge_entropy": 0.979,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 2,
+    "horiz_lines": 755,
+    "is_food_closeup": false,
+    "skin_ratio": 0.003,
+    "colors": {
+      "green": 0.695,
+      "water_blue": 0.001,
+      "earth_brown": 0.006,
+      "snow_white": 0.0,
+      "brightness": 57.1,
+      "saturation": 171.8
+    },
+    "blur": 1239.5657144163342,
+    "brightness": 57.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.709, texture_cv=0.329, entropy=0.979, saliency=0.0860000029206276)",
+      "Horizon line detected (17 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/51_score050_11m18s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1080,
+    "time": "18:00",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.002265625,
+    "has_horizon": true,
+    "horizon_count": 19,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.754,
+      "focus_cv": 0.669,
+      "focus_uniform": "False",
+      "texture_cv": 0.299,
+      "texture_uniform": "True",
+      "edge_entropy": 0.983,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 23,
+    "horiz_lines": 674,
+    "is_food_closeup": false,
+    "skin_ratio": 0.018,
+    "colors": {
+      "green": 0.754,
+      "water_blue": 0.015,
+      "earth_brown": 0.047,
+      "snow_white": 0.0,
+      "brightness": 109.6,
+      "saturation": 207.7
+    },
+    "blur": 2345.7597285336906,
+    "brightness": 109.6,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.669, texture_cv=0.299, entropy=0.983, saliency=0.08399999886751175)",
+      "Horizon line detected (19 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/52_score050_18m00s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1082,
+    "time": "18:02",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.001640625,
+    "has_horizon": true,
+    "horizon_count": 12,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.756,
+      "focus_cv": 0.717,
+      "focus_uniform": "False",
+      "texture_cv": 0.29,
+      "texture_uniform": "True",
+      "edge_entropy": 0.984,
+      "edges_spread": "True",
+      "saliency_conc": "0.085",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 18,
+    "horiz_lines": 714,
+    "is_food_closeup": false,
+    "skin_ratio": 0.017,
+    "colors": {
+      "green": 0.756,
+      "water_blue": 0.014,
+      "earth_brown": 0.06,
+      "snow_white": 0.0,
+      "brightness": 111.8,
+      "saturation": 207.0
+    },
+    "blur": 1872.8068991789448,
+    "brightness": 111.8,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.717, texture_cv=0.29, entropy=0.984, saliency=0.08500000089406967)",
+      "Horizon line detected (12 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/53_score050_18m02s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1100,
+    "time": "18:20",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 1.3020833333333334e-05,
+    "has_horizon": true,
+    "horizon_count": 50,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.959,
+      "focus_cv": 0.995,
+      "focus_uniform": "False",
+      "texture_cv": 0.287,
+      "texture_uniform": "True",
+      "edge_entropy": 0.984,
+      "edges_spread": "True",
+      "saliency_conc": "0.076",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 800,
+    "is_food_closeup": false,
+    "skin_ratio": 0.008,
+    "colors": {
+      "green": 0.959,
+      "water_blue": 0.001,
+      "earth_brown": 0.01,
+      "snow_white": 0.0,
+      "brightness": 139.5,
+      "saturation": 192.3
+    },
+    "blur": 1469.8652537819003,
+    "brightness": 139.5,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.995, texture_cv=0.287, entropy=0.984, saliency=0.07599999755620956)",
+      "Horizon line detected (50 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/54_score050_18m20s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1108,
+    "time": "18:28",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0006901041666666667,
+    "has_horizon": true,
+    "horizon_count": 57,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.942,
+      "focus_cv": 0.729,
+      "focus_uniform": "False",
+      "texture_cv": 0.339,
+      "texture_uniform": "True",
+      "edge_entropy": 0.975,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 750,
+    "is_food_closeup": false,
+    "skin_ratio": 0.008,
+    "colors": {
+      "green": 0.942,
+      "water_blue": 0.0,
+      "earth_brown": 0.011,
+      "snow_white": 0.0,
+      "brightness": 110.9,
+      "saturation": 199.4
+    },
+    "blur": 3800.3895514744886,
+    "brightness": 110.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.729, texture_cv=0.339, entropy=0.975, saliency=0.08699999749660492)",
+      "Horizon line detected (57 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/55_score050_18m28s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1110,
+    "time": "18:30",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.00125,
+    "has_horizon": true,
+    "horizon_count": 3,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.499,
+      "focus_cv": 1.015,
+      "focus_uniform": "False",
+      "texture_cv": 0.454,
+      "texture_uniform": "True",
+      "edge_entropy": 0.961,
+      "edges_spread": "True",
+      "saliency_conc": "0.082",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 419,
+    "is_food_closeup": false,
+    "skin_ratio": 0.078,
+    "colors": {
+      "green": 0.499,
+      "water_blue": 0.0,
+      "earth_brown": 0.171,
+      "snow_white": 0.0,
+      "brightness": 91.2,
+      "saturation": 176.2
+    },
+    "blur": 891.0374983717177,
+    "brightness": 91.2,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.015, texture_cv=0.454, entropy=0.961, saliency=0.0820000022649765)",
+      "Horizon line detected (3 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/56_score050_18m30s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1164,
+    "time": "19:24",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.000546875,
+    "has_horizon": true,
+    "horizon_count": 5,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.85,
+      "focus_cv": 0.774,
+      "focus_uniform": "False",
+      "texture_cv": 0.384,
+      "texture_uniform": "True",
+      "edge_entropy": 0.97,
+      "edges_spread": "True",
+      "saliency_conc": "0.095",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 3,
+    "horiz_lines": 347,
+    "is_food_closeup": false,
+    "skin_ratio": 0.007,
+    "colors": {
+      "green": 0.85,
+      "water_blue": 0.016,
+      "earth_brown": 0.018,
+      "snow_white": 0.0,
+      "brightness": 87.1,
+      "saturation": 183.9
+    },
+    "blur": 671.8464536394849,
+    "brightness": 87.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.774, texture_cv=0.384, entropy=0.97, saliency=0.0949999988079071)",
+      "Horizon line detected (5 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/57_score050_19m24s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1324,
+    "time": "22:04",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.00265625,
+    "has_horizon": true,
+    "horizon_count": 3,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.746,
+      "focus_cv": 0.592,
+      "focus_uniform": "True",
+      "texture_cv": 0.135,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.08",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 6,
+    "horiz_lines": 681,
+    "is_food_closeup": false,
+    "skin_ratio": 0.037,
+    "colors": {
+      "green": 0.746,
+      "water_blue": 0.005,
+      "earth_brown": 0.044,
+      "snow_white": 0.007,
+      "brightness": 120.8,
+      "saturation": 194.8
+    },
+    "blur": 1531.2067246508939,
+    "brightness": 120.8,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.592, texture_cv=0.135, entropy=0.997, saliency=0.07999999821186066)",
+      "Horizon line detected (3 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/58_score050_22m04s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1370,
+    "time": "22:50",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0194921875,
+    "has_horizon": true,
+    "horizon_count": 15,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.576,
+      "focus_cv": 0.832,
+      "focus_uniform": "False",
+      "texture_cv": 0.224,
+      "texture_uniform": "True",
+      "edge_entropy": 0.99,
+      "edges_spread": "True",
+      "saliency_conc": "0.113",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 20,
+    "horiz_lines": 809,
+    "is_food_closeup": false,
+    "skin_ratio": 0.071,
+    "colors": {
+      "green": 0.576,
+      "water_blue": 0.001,
+      "earth_brown": 0.097,
+      "snow_white": 0.035,
+      "brightness": 112.2,
+      "saturation": 173.0
+    },
+    "blur": 2994.3652531059915,
+    "brightness": 112.2,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.832, texture_cv=0.224, entropy=0.99, saliency=0.11299999803304672)",
+      "Horizon line detected (15 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/59_score050_22m50s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1374,
+    "time": "22:54",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0038541666666666668,
+    "has_horizon": true,
+    "horizon_count": 6,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.648,
+      "focus_cv": 0.578,
+      "focus_uniform": "True",
+      "texture_cv": 0.165,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 9,
+    "horiz_lines": 908,
+    "is_food_closeup": false,
+    "skin_ratio": 0.013,
+    "colors": {
+      "green": 0.648,
+      "water_blue": 0.01,
+      "earth_brown": 0.06,
+      "snow_white": 0.001,
+      "brightness": 99.1,
+      "saturation": 159.1
+    },
+    "blur": 2347.2102456353077,
+    "brightness": 99.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.578, texture_cv=0.165, entropy=0.995, saliency=0.0860000029206276)",
+      "Horizon line detected (6 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/60_score050_22m54s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1378,
+    "time": "22:58",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.012513020833333333,
+    "has_horizon": true,
+    "horizon_count": 5,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.592,
+      "focus_cv": 0.231,
+      "focus_uniform": "True",
+      "texture_cv": 0.143,
+      "texture_uniform": "True",
+      "edge_entropy": 0.996,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 844,
+    "is_food_closeup": false,
+    "skin_ratio": 0.008,
+    "colors": {
+      "green": 0.592,
+      "water_blue": 0.089,
+      "earth_brown": 0.058,
+      "snow_white": 0.002,
+      "brightness": 111.1,
+      "saturation": 161.7
+    },
+    "blur": 1415.3315630243749,
+    "brightness": 111.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.231, texture_cv=0.143, entropy=0.996, saliency=0.08399999886751175)",
+      "Horizon line detected (5 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/61_score050_22m58s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1394,
+    "time": "23:14",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0012890625,
+    "has_horizon": true,
+    "horizon_count": 36,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.691,
+      "focus_cv": 0.574,
+      "focus_uniform": "True",
+      "texture_cv": 0.161,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.079",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 31,
+    "horiz_lines": 1027,
+    "is_food_closeup": false,
+    "skin_ratio": 0.065,
+    "colors": {
+      "green": 0.691,
+      "water_blue": 0.002,
+      "earth_brown": 0.174,
+      "snow_white": 0.001,
+      "brightness": 107.3,
+      "saturation": 171.0
+    },
+    "blur": 5481.617237189229,
+    "brightness": 107.3,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.574, texture_cv=0.161, entropy=0.995, saliency=0.07900000363588333)",
+      "Horizon line detected (36 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/62_score050_23m14s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1396,
+    "time": "23:16",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0012760416666666666,
+    "has_horizon": true,
+    "horizon_count": 24,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.699,
+      "focus_cv": 0.594,
+      "focus_uniform": "True",
+      "texture_cv": 0.21,
+      "texture_uniform": "True",
+      "edge_entropy": 0.992,
+      "edges_spread": "True",
+      "saliency_conc": "0.078",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 14,
+    "horiz_lines": 927,
+    "is_food_closeup": false,
+    "skin_ratio": 0.074,
+    "colors": {
+      "green": 0.699,
+      "water_blue": 0.002,
+      "earth_brown": 0.162,
+      "snow_white": 0.003,
+      "brightness": 104.2,
+      "saturation": 167.0
+    },
+    "blur": 4809.346761040411,
+    "brightness": 104.2,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.594, texture_cv=0.21, entropy=0.992, saliency=0.07800000160932541)",
+      "Horizon line detected (24 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/63_score050_23m16s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1404,
+    "time": "23:24",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.008307291666666666,
+    "has_horizon": true,
+    "horizon_count": 33,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.889,
+      "focus_cv": 0.523,
+      "focus_uniform": "True",
+      "texture_cv": 0.22,
+      "texture_uniform": "True",
+      "edge_entropy": 0.991,
+      "edges_spread": "True",
+      "saliency_conc": "0.103",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 12,
+    "horiz_lines": 925,
+    "is_food_closeup": false,
+    "skin_ratio": 0.007,
+    "colors": {
+      "green": 0.889,
+      "water_blue": 0.007,
+      "earth_brown": 0.01,
+      "snow_white": 0.003,
+      "brightness": 113.9,
+      "saturation": 168.1
+    },
+    "blur": 2862.166776850647,
+    "brightness": 113.9,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.523, texture_cv=0.22, entropy=0.991, saliency=0.10300000011920929)",
+      "Horizon line detected (33 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/64_score050_23m24s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1408,
+    "time": "23:28",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.018932291666666667,
+    "has_horizon": true,
+    "horizon_count": 43,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.588,
+      "focus_cv": 0.686,
+      "focus_uniform": "False",
+      "texture_cv": 0.43,
+      "texture_uniform": "True",
+      "edge_entropy": 0.958,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 72,
+    "horiz_lines": 807,
+    "is_food_closeup": false,
+    "skin_ratio": 0.071,
+    "colors": {
+      "green": 0.588,
+      "water_blue": 0.002,
+      "earth_brown": 0.158,
+      "snow_white": 0.004,
+      "brightness": 110.0,
+      "saturation": 139.4
+    },
+    "blur": 6226.430755764262,
+    "brightness": 110.0,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.686, texture_cv=0.43, entropy=0.958, saliency=0.08699999749660492)",
+      "Horizon line detected (43 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/65_score050_23m28s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 1418,
+    "time": "23:38",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0016666666666666668,
+    "has_horizon": true,
+    "horizon_count": 48,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.855,
+      "focus_cv": 0.615,
+      "focus_uniform": "False",
+      "texture_cv": 0.119,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.083",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 14,
+    "horiz_lines": 948,
+    "is_food_closeup": false,
+    "skin_ratio": 0.044,
+    "colors": {
+      "green": 0.855,
+      "water_blue": 0.009,
+      "earth_brown": 0.058,
+      "snow_white": 0.003,
+      "brightness": 118.1,
+      "saturation": 149.4
+    },
+    "blur": 4927.708875501676,
+    "brightness": 118.1,
+    "text_detections": [],
+    "score": 50,
+    "tags": [
+      "AERIAL",
+      "HORIZON"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.615, texture_cv=0.119, entropy=0.997, saliency=0.08299999684095383)",
+      "Horizon line detected (48 lines)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/66_score050_23m38s_aerial_horizon.jpg"
+  },
+  {
+    "timestamp": 0,
+    "time": "00:00",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 1.0,
+    "has_horizon": true,
+    "horizon_count": 12,
+    "is_aerial": "False",
+    "aerial_props": {
+      "green": 0.518,
+      "focus_cv": 0.819,
+      "focus_uniform": "False",
+      "texture_cv": 0.853,
+      "texture_uniform": "False",
+      "edge_entropy": 0.831,
+      "edges_spread": "False",
+      "saliency_conc": "0.105",
+      "no_dominant_obj": "True",
+      "structural_score": "1/4"
+    },
+    "has_structures": true,
+    "vert_lines": 0,
+    "horiz_lines": 502,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.518,
+      "water_blue": 0.189,
+      "earth_brown": 0.002,
+      "snow_white": 0.261,
+      "brightness": 145.8,
+      "saturation": 115.8
+    },
+    "blur": 447.71611955338466,
+    "brightness": 145.8,
+    "text_detections": [],
+    "score": 45,
+    "tags": [
+      "HORIZON",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Landscape with horizon + sky (12 lines, sky: 100%)",
+      "Water body visible (19%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/67_score045_00m00s_horizon_sky_water.jpg"
+  },
+  {
+    "timestamp": 2,
+    "time": "00:02",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 1.0,
+    "has_horizon": true,
+    "horizon_count": 6,
+    "is_aerial": "False",
+    "aerial_props": {
+      "green": 0.53,
+      "focus_cv": 0.823,
+      "focus_uniform": "False",
+      "texture_cv": 0.848,
+      "texture_uniform": "False",
+      "edge_entropy": 0.834,
+      "edges_spread": "False",
+      "saliency_conc": "0.103",
+      "no_dominant_obj": "True",
+      "structural_score": "1/4"
+    },
+    "has_structures": true,
+    "vert_lines": 0,
+    "horiz_lines": 352,
+    "is_food_closeup": false,
+    "skin_ratio": 0.002,
+    "colors": {
+      "green": 0.53,
+      "water_blue": 0.186,
+      "earth_brown": 0.002,
+      "snow_white": 0.25,
+      "brightness": 147.7,
+      "saturation": 116.4
+    },
+    "blur": 214.53098025105794,
+    "brightness": 147.7,
+    "text_detections": [],
+    "score": 45,
+    "tags": [
+      "HORIZON",
+      "SKY",
+      "WATER"
+    ],
+    "reasons": [
+      "Landscape with horizon + sky (6 lines, sky: 100%)",
+      "Water body visible (19%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/68_score045_00m02s_horizon_sky_water.jpg"
+  },
+  {
+    "timestamp": 150,
+    "time": "02:30",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.25037760416666666,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.68,
+      "focus_cv": 0.885,
+      "focus_uniform": "False",
+      "texture_cv": 0.252,
+      "texture_uniform": "True",
+      "edge_entropy": 0.988,
+      "edges_spread": "True",
+      "saliency_conc": "0.108",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 6,
+    "horiz_lines": 50,
+    "is_food_closeup": false,
+    "skin_ratio": 0.039,
+    "colors": {
+      "green": 0.68,
+      "water_blue": 0.034,
+      "earth_brown": 0.072,
+      "snow_white": 0.177,
+      "brightness": 135.3,
+      "saturation": 141.7
+    },
+    "blur": 269.0173168933256,
+    "brightness": 135.3,
+    "text_detections": [],
+    "score": 45,
+    "tags": [
+      "AERIAL",
+      "SKY"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.885, texture_cv=0.252, entropy=0.988, saliency=0.1080000028014183)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/69_score045_02m30s_aerial_sky.jpg"
+  },
+  {
+    "timestamp": 174,
+    "time": "02:54",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.31473958333333335,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.883,
+      "focus_cv": 0.954,
+      "focus_uniform": "False",
+      "texture_cv": 0.37,
+      "texture_uniform": "True",
+      "edge_entropy": 0.975,
+      "edges_spread": "True",
+      "saliency_conc": "0.098",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 3,
+    "horiz_lines": 81,
+    "is_food_closeup": false,
+    "skin_ratio": 0.021,
+    "colors": {
+      "green": 0.883,
+      "water_blue": 0.104,
+      "earth_brown": 0.011,
+      "snow_white": 0.03,
+      "brightness": 159.9,
+      "saturation": 152.7
+    },
+    "blur": 212.8885077200996,
+    "brightness": 159.9,
+    "text_detections": [],
+    "score": 45,
+    "tags": [
+      "AERIAL",
+      "SKY"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.954, texture_cv=0.37, entropy=0.975, saliency=0.09799999743700027)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/70_score045_02m54s_aerial_sky.jpg"
+  },
+  {
+    "timestamp": 502,
+    "time": "08:22",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.010885416666666667,
+    "has_horizon": true,
+    "horizon_count": 26,
+    "is_aerial": false,
+    "aerial_props": {
+      "green": 0.037,
+      "focus_cv": 0.898,
+      "focus_uniform": "False",
+      "texture_cv": 0.483,
+      "texture_uniform": "True",
+      "edge_entropy": 0.948,
+      "edges_spread": "True",
+      "saliency_conc": "0.09",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 22,
+    "horiz_lines": 474,
+    "is_food_closeup": false,
+    "skin_ratio": 0.089,
+    "colors": {
+      "green": 0.037,
+      "water_blue": 0.242,
+      "earth_brown": 0.212,
+      "snow_white": 0.001,
+      "brightness": 83.9,
+      "saturation": 61.5
+    },
+    "blur": 2242.3673342001834,
+    "brightness": 83.9,
+    "text_detections": [],
+    "score": 45,
+    "tags": [
+      "HORIZON",
+      "STRUCTURE",
+      "WATER"
+    ],
+    "reasons": [
+      "Horizon line detected (26 lines)",
+      "Architecture/structures (V:22 H:474)",
+      "Water body visible (24%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/71_score045_08m22s_horizon_structure_water.jpg"
+  },
+  {
+    "timestamp": 14,
+    "time": "00:14",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.06838541666666667,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.786,
+      "focus_cv": 0.378,
+      "focus_uniform": "True",
+      "texture_cv": 0.219,
+      "texture_uniform": "True",
+      "edge_entropy": 0.99,
+      "edges_spread": "True",
+      "saliency_conc": "0.092",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 649,
+    "is_food_closeup": false,
+    "skin_ratio": 0.003,
+    "colors": {
+      "green": 0.786,
+      "water_blue": 0.041,
+      "earth_brown": 0.012,
+      "snow_white": 0.097,
+      "brightness": 115.2,
+      "saturation": 152.1
+    },
+    "blur": 1602.3821912373858,
+    "brightness": 115.2,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.378, texture_cv=0.219, entropy=0.99, saliency=0.09200000017881393)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/72_score040_00m14s_aerial.jpg"
+  },
+  {
+    "timestamp": 16,
+    "time": "00:16",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0003255208333333333,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.353,
+      "focus_cv": 0.793,
+      "focus_uniform": "False",
+      "texture_cv": 0.46,
+      "texture_uniform": "True",
+      "edge_entropy": 0.958,
+      "edges_spread": "True",
+      "saliency_conc": "0.11",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 60,
+    "is_food_closeup": false,
+    "skin_ratio": 0.07,
+    "colors": {
+      "green": 0.353,
+      "water_blue": 0.0,
+      "earth_brown": 0.096,
+      "snow_white": 0.024,
+      "brightness": 83.2,
+      "saturation": 189.1
+    },
+    "blur": 186.53223665890167,
+    "brightness": 83.2,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.793, texture_cv=0.46, entropy=0.958, saliency=0.10999999940395355)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/73_score040_00m16s_aerial.jpg"
+  },
+  {
+    "timestamp": 34,
+    "time": "00:34",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.09024739583333333,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.639,
+      "focus_cv": 0.511,
+      "focus_uniform": "True",
+      "texture_cv": 0.375,
+      "texture_uniform": "True",
+      "edge_entropy": 0.973,
+      "edges_spread": "True",
+      "saliency_conc": "0.142",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 13,
+    "horiz_lines": 66,
+    "is_food_closeup": false,
+    "skin_ratio": 0.062,
+    "colors": {
+      "green": 0.639,
+      "water_blue": 0.03,
+      "earth_brown": 0.022,
+      "snow_white": 0.023,
+      "brightness": 76.1,
+      "saturation": 183.0
+    },
+    "blur": 701.3087727344467,
+    "brightness": 76.1,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.511, texture_cv=0.375, entropy=0.973, saliency=0.1420000046491623)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/74_score040_00m34s_aerial.jpg"
+  },
+  {
+    "timestamp": 42,
+    "time": "00:42",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.05678385416666667,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.647,
+      "focus_cv": 1.456,
+      "focus_uniform": "False",
+      "texture_cv": 0.498,
+      "texture_uniform": "True",
+      "edge_entropy": 0.951,
+      "edges_spread": "True",
+      "saliency_conc": "0.093",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 6,
+    "horiz_lines": 229,
+    "is_food_closeup": false,
+    "skin_ratio": 0.02,
+    "colors": {
+      "green": 0.647,
+      "water_blue": 0.092,
+      "earth_brown": 0.008,
+      "snow_white": 0.079,
+      "brightness": 99.3,
+      "saturation": 142.6
+    },
+    "blur": 957.6598275714451,
+    "brightness": 99.3,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.456, texture_cv=0.498, entropy=0.951, saliency=0.09300000220537186)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/75_score040_00m42s_aerial.jpg"
+  },
+  {
+    "timestamp": 46,
+    "time": "00:46",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0030859375,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.696,
+      "focus_cv": 1.513,
+      "focus_uniform": "False",
+      "texture_cv": 0.317,
+      "texture_uniform": "True",
+      "edge_entropy": 0.981,
+      "edges_spread": "True",
+      "saliency_conc": "0.088",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 2,
+    "horiz_lines": 544,
+    "is_food_closeup": false,
+    "skin_ratio": 0.04,
+    "colors": {
+      "green": 0.696,
+      "water_blue": 0.008,
+      "earth_brown": 0.094,
+      "snow_white": 0.006,
+      "brightness": 106.5,
+      "saturation": 174.4
+    },
+    "blur": 972.8654625433275,
+    "brightness": 106.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.513, texture_cv=0.317, entropy=0.981, saliency=0.08799999952316284)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/76_score040_00m46s_aerial.jpg"
+  },
+  {
+    "timestamp": 50,
+    "time": "00:50",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.24328125,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.755,
+      "focus_cv": 0.446,
+      "focus_uniform": "True",
+      "texture_cv": 0.231,
+      "texture_uniform": "True",
+      "edge_entropy": 0.991,
+      "edges_spread": "True",
+      "saliency_conc": "0.104",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 15,
+    "horiz_lines": 430,
+    "is_food_closeup": false,
+    "skin_ratio": 0.02,
+    "colors": {
+      "green": 0.755,
+      "water_blue": 0.074,
+      "earth_brown": 0.02,
+      "snow_white": 0.097,
+      "brightness": 125.9,
+      "saturation": 151.1
+    },
+    "blur": 1588.4268341769746,
+    "brightness": 125.9,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.446, texture_cv=0.231, entropy=0.991, saliency=0.10400000214576721)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/77_score040_00m50s_aerial.jpg"
+  },
+  {
+    "timestamp": 56,
+    "time": "00:56",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.527,
+      "focus_cv": 0.947,
+      "focus_uniform": "False",
+      "texture_cv": 0.467,
+      "texture_uniform": "True",
+      "edge_entropy": 0.961,
+      "edges_spread": "True",
+      "saliency_conc": "0.088",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": false,
+    "vert_lines": 18,
+    "horiz_lines": 12,
+    "is_food_closeup": false,
+    "skin_ratio": 0.024,
+    "colors": {
+      "green": 0.527,
+      "water_blue": 0.0,
+      "earth_brown": 0.094,
+      "snow_white": 0.0,
+      "brightness": 93.5,
+      "saturation": 209.7
+    },
+    "blur": 138.01746951209174,
+    "brightness": 93.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.947, texture_cv=0.467, entropy=0.961, saliency=0.08799999952316284)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/78_score040_00m56s_aerial.jpg"
+  },
+  {
+    "timestamp": 110,
+    "time": "01:50",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.006328125,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.678,
+      "focus_cv": 0.382,
+      "focus_uniform": "True",
+      "texture_cv": 0.126,
+      "texture_uniform": "True",
+      "edge_entropy": 0.997,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 14,
+    "horiz_lines": 861,
+    "is_food_closeup": false,
+    "skin_ratio": 0.064,
+    "colors": {
+      "green": 0.678,
+      "water_blue": 0.001,
+      "earth_brown": 0.051,
+      "snow_white": 0.006,
+      "brightness": 87.5,
+      "saturation": 171.4
+    },
+    "blur": 4331.7161533239105,
+    "brightness": 87.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.382, texture_cv=0.126, entropy=0.997, saliency=0.0860000029206276)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/79_score040_01m50s_aerial.jpg"
+  },
+  {
+    "timestamp": 112,
+    "time": "01:52",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.5826822916666666,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": false,
+    "aerial_props": {
+      "green": 0.026,
+      "focus_cv": 1.039,
+      "focus_uniform": "False",
+      "texture_cv": 0.645,
+      "texture_uniform": "False",
+      "edge_entropy": 0.92,
+      "edges_spread": "True",
+      "saliency_conc": "0.086",
+      "no_dominant_obj": "True",
+      "structural_score": "2/4"
+    },
+    "has_structures": true,
+    "vert_lines": 32,
+    "horiz_lines": 82,
+    "is_food_closeup": false,
+    "skin_ratio": 0.043,
+    "colors": {
+      "green": 0.026,
+      "water_blue": 0.157,
+      "earth_brown": 0.09,
+      "snow_white": 0.13,
+      "brightness": 94.8,
+      "saturation": 111.3
+    },
+    "blur": 833.279018234517,
+    "brightness": 94.8,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "SKY",
+      "STRUCTURE",
+      "WATER"
+    ],
+    "reasons": [
+      "Architecture/structures (V:32 H:82)",
+      "Water body visible (16%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/80_score040_01m52s_sky_structure_water.jpg"
+  },
+  {
+    "timestamp": 136,
+    "time": "02:16",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.23109375,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.815,
+      "focus_cv": 0.568,
+      "focus_uniform": "True",
+      "texture_cv": 0.455,
+      "texture_uniform": "True",
+      "edge_entropy": 0.965,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 7,
+    "horiz_lines": 120,
+    "is_food_closeup": false,
+    "skin_ratio": 0.008,
+    "colors": {
+      "green": 0.815,
+      "water_blue": 0.027,
+      "earth_brown": 0.025,
+      "snow_white": 0.097,
+      "brightness": 124.5,
+      "saturation": 145.9
+    },
+    "blur": 765.8140792438084,
+    "brightness": 124.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.568, texture_cv=0.455, entropy=0.965, saliency=0.08699999749660492)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/81_score040_02m16s_aerial.jpg"
+  },
+  {
+    "timestamp": 138,
+    "time": "02:18",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.08798177083333333,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.751,
+      "focus_cv": 0.707,
+      "focus_uniform": "False",
+      "texture_cv": 0.303,
+      "texture_uniform": "True",
+      "edge_entropy": 0.983,
+      "edges_spread": "True",
+      "saliency_conc": "0.088",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 18,
+    "horiz_lines": 548,
+    "is_food_closeup": false,
+    "skin_ratio": 0.034,
+    "colors": {
+      "green": 0.751,
+      "water_blue": 0.007,
+      "earth_brown": 0.05,
+      "snow_white": 0.059,
+      "brightness": 138.5,
+      "saturation": 135.2
+    },
+    "blur": 1360.3801844611273,
+    "brightness": 138.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.707, texture_cv=0.303, entropy=0.983, saliency=0.08799999952316284)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/82_score040_02m18s_aerial.jpg"
+  },
+  {
+    "timestamp": 152,
+    "time": "02:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.099140625,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.804,
+      "focus_cv": 0.996,
+      "focus_uniform": "False",
+      "texture_cv": 0.372,
+      "texture_uniform": "True",
+      "edge_entropy": 0.977,
+      "edges_spread": "True",
+      "saliency_conc": "0.104",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 13,
+    "horiz_lines": 60,
+    "is_food_closeup": false,
+    "skin_ratio": 0.028,
+    "colors": {
+      "green": 0.804,
+      "water_blue": 0.015,
+      "earth_brown": 0.072,
+      "snow_white": 0.098,
+      "brightness": 139.4,
+      "saturation": 161.3
+    },
+    "blur": 288.3689657985357,
+    "brightness": 139.4,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.996, texture_cv=0.372, entropy=0.977, saliency=0.10400000214576721)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/83_score040_02m32s_aerial.jpg"
+  },
+  {
+    "timestamp": 162,
+    "time": "02:42",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.011041666666666667,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.504,
+      "focus_cv": 0.716,
+      "focus_uniform": "False",
+      "texture_cv": 0.498,
+      "texture_uniform": "True",
+      "edge_entropy": 0.941,
+      "edges_spread": "True",
+      "saliency_conc": "0.088",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 1,
+    "horiz_lines": 62,
+    "is_food_closeup": false,
+    "skin_ratio": 0.047,
+    "colors": {
+      "green": 0.504,
+      "water_blue": 0.052,
+      "earth_brown": 0.175,
+      "snow_white": 0.0,
+      "brightness": 99.4,
+      "saturation": 163.4
+    },
+    "blur": 77.71330909467157,
+    "brightness": 99.4,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.716, texture_cv=0.498, entropy=0.941, saliency=0.08799999952316284)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/84_score040_02m42s_aerial.jpg"
+  },
+  {
+    "timestamp": 186,
+    "time": "03:06",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.03046875,
+    "has_horizon": false,
+    "horizon_count": 1,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.461,
+      "focus_cv": 0.888,
+      "focus_uniform": "False",
+      "texture_cv": 0.32,
+      "texture_uniform": "True",
+      "edge_entropy": 0.981,
+      "edges_spread": "True",
+      "saliency_conc": "0.08",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 9,
+    "horiz_lines": 362,
+    "is_food_closeup": false,
+    "skin_ratio": 0.075,
+    "colors": {
+      "green": 0.461,
+      "water_blue": 0.004,
+      "earth_brown": 0.115,
+      "snow_white": 0.023,
+      "brightness": 110.8,
+      "saturation": 158.0
+    },
+    "blur": 1496.9293446248187,
+    "brightness": 110.8,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.888, texture_cv=0.32, entropy=0.981, saliency=0.07999999821186066)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/85_score040_03m06s_aerial.jpg"
+  },
+  {
+    "timestamp": 282,
+    "time": "04:42",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0363671875,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.463,
+      "focus_cv": 0.907,
+      "focus_uniform": "False",
+      "texture_cv": 0.482,
+      "texture_uniform": "True",
+      "edge_entropy": 0.954,
+      "edges_spread": "True",
+      "saliency_conc": "0.085",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 0,
+    "horiz_lines": 95,
+    "is_food_closeup": false,
+    "skin_ratio": 0.097,
+    "colors": {
+      "green": 0.463,
+      "water_blue": 0.019,
+      "earth_brown": 0.208,
+      "snow_white": 0.051,
+      "brightness": 145.2,
+      "saturation": 146.1
+    },
+    "blur": 184.18490993893468,
+    "brightness": 145.2,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.907, texture_cv=0.482, entropy=0.954, saliency=0.08500000089406967)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/86_score040_04m42s_aerial.jpg"
+  },
+  {
+    "timestamp": 320,
+    "time": "05:20",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0037630208333333335,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.405,
+      "focus_cv": 0.873,
+      "focus_uniform": "False",
+      "texture_cv": 0.428,
+      "texture_uniform": "True",
+      "edge_entropy": 0.962,
+      "edges_spread": "True",
+      "saliency_conc": "0.093",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 151,
+    "is_food_closeup": false,
+    "skin_ratio": 0.021,
+    "colors": {
+      "green": 0.405,
+      "water_blue": 0.001,
+      "earth_brown": 0.071,
+      "snow_white": 0.001,
+      "brightness": 98.5,
+      "saturation": 200.3
+    },
+    "blur": 355.9183810311587,
+    "brightness": 98.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.873, texture_cv=0.428, entropy=0.962, saliency=0.09300000220537186)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/87_score040_05m20s_aerial.jpg"
+  },
+  {
+    "timestamp": 338,
+    "time": "05:38",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.20807291666666666,
+    "has_horizon": false,
+    "horizon_count": 1,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.49,
+      "focus_cv": 0.705,
+      "focus_uniform": "False",
+      "texture_cv": 0.307,
+      "texture_uniform": "True",
+      "edge_entropy": 0.98,
+      "edges_spread": "True",
+      "saliency_conc": "0.081",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 548,
+    "is_food_closeup": false,
+    "skin_ratio": 0.071,
+    "colors": {
+      "green": 0.49,
+      "water_blue": 0.119,
+      "earth_brown": 0.07,
+      "snow_white": 0.09,
+      "brightness": 146.3,
+      "saturation": 123.9
+    },
+    "blur": 1039.1314496226369,
+    "brightness": 146.3,
+    "text_detections": [
+      {
+        "text": "Anterjo",
+        "conf": 0.043,
+        "non_latin": false
+      }
+    ],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.705, texture_cv=0.307, entropy=0.98, saliency=0.08100000023841858)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/88_score040_05m38s_aerial.jpg"
+  },
+  {
+    "timestamp": 496,
+    "time": "08:16",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.016809895833333335,
+    "has_horizon": false,
+    "horizon_count": 1,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.802,
+      "focus_cv": 0.745,
+      "focus_uniform": "False",
+      "texture_cv": 0.163,
+      "texture_uniform": "True",
+      "edge_entropy": 0.995,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 16,
+    "horiz_lines": 791,
+    "is_food_closeup": false,
+    "skin_ratio": 0.014,
+    "colors": {
+      "green": 0.802,
+      "water_blue": 0.017,
+      "earth_brown": 0.019,
+      "snow_white": 0.01,
+      "brightness": 123.1,
+      "saturation": 159.6
+    },
+    "blur": 1195.798086696747,
+    "brightness": 123.1,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.745, texture_cv=0.163, entropy=0.995, saliency=0.08399999886751175)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/89_score040_08m16s_aerial.jpg"
+  },
+  {
+    "timestamp": 506,
+    "time": "08:26",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.051497395833333334,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.56,
+      "focus_cv": 0.551,
+      "focus_uniform": "True",
+      "texture_cv": 0.334,
+      "texture_uniform": "True",
+      "edge_entropy": 0.979,
+      "edges_spread": "True",
+      "saliency_conc": "0.087",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 46,
+    "horiz_lines": 639,
+    "is_food_closeup": false,
+    "skin_ratio": 0.034,
+    "colors": {
+      "green": 0.56,
+      "water_blue": 0.027,
+      "earth_brown": 0.092,
+      "snow_white": 0.009,
+      "brightness": 81.9,
+      "saturation": 155.4
+    },
+    "blur": 1619.1070003688483,
+    "brightness": 81.9,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.551, texture_cv=0.334, entropy=0.979, saliency=0.08699999749660492)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/90_score040_08m26s_aerial.jpg"
+  },
+  {
+    "timestamp": 522,
+    "time": "08:42",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0066927083333333335,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.611,
+      "focus_cv": 0.627,
+      "focus_uniform": "False",
+      "texture_cv": 0.271,
+      "texture_uniform": "True",
+      "edge_entropy": 0.984,
+      "edges_spread": "True",
+      "saliency_conc": "0.096",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 530,
+    "is_food_closeup": false,
+    "skin_ratio": 0.037,
+    "colors": {
+      "green": 0.611,
+      "water_blue": 0.067,
+      "earth_brown": 0.059,
+      "snow_white": 0.021,
+      "brightness": 98.5,
+      "saturation": 154.1
+    },
+    "blur": 2419.3210431970474,
+    "brightness": 98.5,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.627, texture_cv=0.271, entropy=0.984, saliency=0.09600000083446503)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/91_score040_08m42s_aerial.jpg"
+  },
+  {
+    "timestamp": 568,
+    "time": "09:28",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.016041666666666666,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.704,
+      "focus_cv": 0.73,
+      "focus_uniform": "False",
+      "texture_cv": 0.241,
+      "texture_uniform": "True",
+      "edge_entropy": 0.989,
+      "edges_spread": "True",
+      "saliency_conc": "0.106",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 605,
+    "is_food_closeup": false,
+    "skin_ratio": 0.03,
+    "colors": {
+      "green": 0.704,
+      "water_blue": 0.064,
+      "earth_brown": 0.051,
+      "snow_white": 0.01,
+      "brightness": 96.6,
+      "saturation": 160.2
+    },
+    "blur": 2541.811303755678,
+    "brightness": 96.6,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.73, texture_cv=0.241, entropy=0.989, saliency=0.10599999874830246)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/92_score040_09m28s_aerial.jpg"
+  },
+  {
+    "timestamp": 606,
+    "time": "10:06",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.016276041666666668,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.408,
+      "focus_cv": 0.944,
+      "focus_uniform": "False",
+      "texture_cv": 0.436,
+      "texture_uniform": "True",
+      "edge_entropy": 0.962,
+      "edges_spread": "True",
+      "saliency_conc": "0.104",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 20,
+    "horiz_lines": 386,
+    "is_food_closeup": false,
+    "skin_ratio": 0.104,
+    "colors": {
+      "green": 0.408,
+      "water_blue": 0.015,
+      "earth_brown": 0.163,
+      "snow_white": 0.019,
+      "brightness": 98.2,
+      "saturation": 168.3
+    },
+    "blur": 766.673719663248,
+    "brightness": 98.2,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=0.944, texture_cv=0.436, entropy=0.962, saliency=0.10400000214576721)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/93_score040_10m06s_aerial.jpg"
+  },
+  {
+    "timestamp": 644,
+    "time": "10:44",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0644921875,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.509,
+      "focus_cv": 1.225,
+      "focus_uniform": "False",
+      "texture_cv": 0.406,
+      "texture_uniform": "True",
+      "edge_entropy": 0.971,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 8,
+    "horiz_lines": 398,
+    "is_food_closeup": false,
+    "skin_ratio": 0.087,
+    "colors": {
+      "green": 0.509,
+      "water_blue": 0.015,
+      "earth_brown": 0.093,
+      "snow_white": 0.046,
+      "brightness": 124.4,
+      "saturation": 153.4
+    },
+    "blur": 1497.1838949706278,
+    "brightness": 124.4,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.225, texture_cv=0.406, entropy=0.971, saliency=0.08399999886751175)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/94_score040_10m44s_aerial.jpg"
+  },
+  {
+    "timestamp": 652,
+    "time": "10:52",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0026041666666666665,
+    "has_horizon": false,
+    "horizon_count": 2,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.563,
+      "focus_cv": 0.452,
+      "focus_uniform": "True",
+      "texture_cv": 0.206,
+      "texture_uniform": "True",
+      "edge_entropy": 0.992,
+      "edges_spread": "True",
+      "saliency_conc": "0.084",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 24,
+    "horiz_lines": 908,
+    "is_food_closeup": false,
+    "skin_ratio": 0.142,
+    "colors": {
+      "green": 0.563,
+      "water_blue": 0.005,
+      "earth_brown": 0.127,
+      "snow_white": 0.012,
+      "brightness": 119.8,
+      "saturation": 154.0
+    },
+    "blur": 2168.882827630615,
+    "brightness": 119.8,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.452, texture_cv=0.206, entropy=0.992, saliency=0.08399999886751175)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/95_score040_10m52s_aerial.jpg"
+  },
+  {
+    "timestamp": 660,
+    "time": "11:00",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.21119791666666668,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.622,
+      "focus_cv": 0.553,
+      "focus_uniform": "True",
+      "texture_cv": 0.278,
+      "texture_uniform": "True",
+      "edge_entropy": 0.985,
+      "edges_spread": "True",
+      "saliency_conc": "0.08",
+      "no_dominant_obj": "True",
+      "structural_score": "4/4"
+    },
+    "has_structures": true,
+    "vert_lines": 5,
+    "horiz_lines": 148,
+    "is_food_closeup": false,
+    "skin_ratio": 0.005,
+    "colors": {
+      "green": 0.622,
+      "water_blue": 0.063,
+      "earth_brown": 0.014,
+      "snow_white": 0.197,
+      "brightness": 125.3,
+      "saturation": 137.7
+    },
+    "blur": 1280.8837538580249,
+    "brightness": 125.3,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (4/4 checks passed: focus_cv=0.553, texture_cv=0.278, entropy=0.985, saliency=0.07999999821186066)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/96_score040_11m00s_aerial.jpg"
+  },
+  {
+    "timestamp": 664,
+    "time": "11:04",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.47108072916666666,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": false,
+    "aerial_props": {
+      "green": 0.143,
+      "focus_cv": 1.531,
+      "focus_uniform": "False",
+      "texture_cv": 0.974,
+      "texture_uniform": "False",
+      "edge_entropy": 0.815,
+      "edges_spread": "False",
+      "saliency_conc": "0.135",
+      "no_dominant_obj": "True",
+      "structural_score": "1/4"
+    },
+    "has_structures": true,
+    "vert_lines": 16,
+    "horiz_lines": 230,
+    "is_food_closeup": false,
+    "skin_ratio": 0.017,
+    "colors": {
+      "green": 0.143,
+      "water_blue": 0.39,
+      "earth_brown": 0.025,
+      "snow_white": 0.051,
+      "brightness": 116.2,
+      "saturation": 100.6
+    },
+    "blur": 1172.528497612169,
+    "brightness": 116.2,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "SKY",
+      "STRUCTURE",
+      "WATER"
+    ],
+    "reasons": [
+      "Architecture/structures (V:16 H:230)",
+      "Water body visible (39%)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/97_score040_11m04s_sky_structure_water.jpg"
+  },
+  {
+    "timestamp": 752,
+    "time": "12:32",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.06786458333333334,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.523,
+      "focus_cv": 1.119,
+      "focus_uniform": "False",
+      "texture_cv": 0.455,
+      "texture_uniform": "True",
+      "edge_entropy": 0.965,
+      "edges_spread": "True",
+      "saliency_conc": "0.107",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 77,
+    "horiz_lines": 133,
+    "is_food_closeup": false,
+    "skin_ratio": 0.04,
+    "colors": {
+      "green": 0.523,
+      "water_blue": 0.0,
+      "earth_brown": 0.063,
+      "snow_white": 0.025,
+      "brightness": 115.8,
+      "saturation": 175.8
+    },
+    "blur": 557.8096896782581,
+    "brightness": 115.8,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.119, texture_cv=0.455, entropy=0.965, saliency=0.10700000077486038)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/98_score040_12m32s_aerial.jpg"
+  },
+  {
+    "timestamp": 1006,
+    "time": "16:46",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.0032421875,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.612,
+      "focus_cv": 1.215,
+      "focus_uniform": "False",
+      "texture_cv": 0.474,
+      "texture_uniform": "True",
+      "edge_entropy": 0.958,
+      "edges_spread": "True",
+      "saliency_conc": "0.113",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 4,
+    "horiz_lines": 250,
+    "is_food_closeup": false,
+    "skin_ratio": 0.053,
+    "colors": {
+      "green": 0.612,
+      "water_blue": 0.0,
+      "earth_brown": 0.125,
+      "snow_white": 0.002,
+      "brightness": 109.8,
+      "saturation": 133.1
+    },
+    "blur": 1193.9702440886135,
+    "brightness": 109.8,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.215, texture_cv=0.474, entropy=0.958, saliency=0.11299999803304672)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/99_score040_16m46s_aerial.jpg"
+  },
+  {
+    "timestamp": 1036,
+    "time": "17:16",
+    "face_count": 0,
+    "face_ratio": 0.0,
+    "sky_ratio": 0.026028645833333332,
+    "has_horizon": false,
+    "horizon_count": 0,
+    "is_aerial": "True",
+    "aerial_props": {
+      "green": 0.446,
+      "focus_cv": 1.698,
+      "focus_uniform": "False",
+      "texture_cv": 0.295,
+      "texture_uniform": "True",
+      "edge_entropy": 0.985,
+      "edges_spread": "True",
+      "saliency_conc": "0.083",
+      "no_dominant_obj": "True",
+      "structural_score": "3/4"
+    },
+    "has_structures": true,
+    "vert_lines": 50,
+    "horiz_lines": 93,
+    "is_food_closeup": false,
+    "skin_ratio": 0.028,
+    "colors": {
+      "green": 0.446,
+      "water_blue": 0.0,
+      "earth_brown": 0.104,
+      "snow_white": 0.009,
+      "brightness": 114.4,
+      "saturation": 170.0
+    },
+    "blur": 591.7661815728081,
+    "brightness": 114.4,
+    "text_detections": [],
+    "score": 40,
+    "tags": [
+      "AERIAL"
+    ],
+    "reasons": [
+      "Aerial/drone shot (3/4 checks passed: focus_cv=1.698, texture_cv=0.295, entropy=0.985, saliency=0.08299999684095383)"
+    ],
+    "output_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/high-signal-frames/100_score040_17m16s_aerial.jpg"
+  }
+]

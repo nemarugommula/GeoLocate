@@ -1,0 +1,2030 @@
+[
+  {
+    "timestamp": 12,
+    "time": "00:12",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0012.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 55,
+    "reasons": [
+      "Latin text: \"Ge0co)\" (conf: 59%)",
+      "Latin text: \"Gotfon fruifl\" (conf: 33%)",
+      "Latin text: \"un8-\" (conf: 34%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Ge0co)",
+        "confidence": 0.587,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            87,
+            313
+          ],
+          [
+            153,
+            313
+          ],
+          [
+            153,
+            331
+          ],
+          [
+            87,
+            331
+          ]
+        ]
+      },
+      {
+        "text": "Gotfon fruifl",
+        "confidence": 0.33,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            77,
+            329
+          ],
+          [
+            155,
+            329
+          ],
+          [
+            155,
+            349
+          ],
+          [
+            77,
+            349
+          ]
+        ]
+      },
+      {
+        "text": "un8-",
+        "confidence": 0.344,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            165,
+            329
+          ],
+          [
+            199,
+            329
+          ],
+          [
+            199,
+            345
+          ],
+          [
+            165,
+            345
+          ]
+        ]
+      },
+      {
+        "text": "987g1",
+        "confidence": 0.079,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            31,
+            326
+          ],
+          [
+            81,
+            333
+          ],
+          [
+            78,
+            351
+          ],
+          [
+            28,
+            344
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.771,
+      "sky": 0.007,
+      "brightness": 84.472
+    }
+  },
+  {
+    "timestamp": 876,
+    "time": "14:36",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0876.jpg",
+    "frame_type": "indoor-bright",
+    "score": 45,
+    "reasons": [
+      "Latin text: \"233\" (conf: 48%)",
+      "Latin text: \"SFFish Sjeur\" (conf: 30%)",
+      "Latin text: \"'010\" (conf: 32%)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "233",
+        "confidence": 0.479,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            118,
+            272
+          ],
+          [
+            150,
+            272
+          ],
+          [
+            150,
+            298
+          ],
+          [
+            118,
+            298
+          ]
+        ]
+      },
+      {
+        "text": "SFFish Sjeur",
+        "confidence": 0.304,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            81,
+            297
+          ],
+          [
+            153,
+            297
+          ],
+          [
+            153,
+            315
+          ],
+          [
+            81,
+            315
+          ]
+        ]
+      },
+      {
+        "text": "'010",
+        "confidence": 0.32,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            80,
+            268
+          ],
+          [
+            122,
+            276
+          ],
+          [
+            117,
+            301
+          ],
+          [
+            75,
+            294
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.018,
+      "brightness": 92.503
+    }
+  },
+  {
+    "timestamp": 288,
+    "time": "04:48",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0288.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 40,
+    "reasons": [
+      "Latin text: \"Don t move\" (conf: 75%)",
+      "Latin text: \"saki stay calm\" (conf: 61%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Don t move",
+        "confidence": 0.748,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            205,
+            333
+          ],
+          [
+            311,
+            333
+          ],
+          [
+            311,
+            353
+          ],
+          [
+            205,
+            353
+          ]
+        ]
+      },
+      {
+        "text": "saki stay calm",
+        "confidence": 0.607,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            309,
+            328
+          ],
+          [
+            438,
+            328
+          ],
+          [
+            438,
+            358
+          ],
+          [
+            309,
+            358
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.357,
+      "sky": 0.001,
+      "brightness": 140.38
+    }
+  },
+  {
+    "timestamp": 40,
+    "time": "00:40",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0040.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"Here sistercatch this.\" (conf: 67%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Here sistercatch this.",
+        "confidence": 0.666,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            228,
+            330
+          ],
+          [
+            400,
+            330
+          ],
+          [
+            400,
+            356
+          ],
+          [
+            228,
+            356
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.647,
+      "sky": 0.04,
+      "brightness": 99.584
+    }
+  },
+  {
+    "timestamp": 148,
+    "time": "02:28",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0148.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"Sjur\" (conf: 90%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "EoooroJ",
+        "confidence": 0.083,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            423,
+            261
+          ],
+          [
+            505,
+            261
+          ],
+          [
+            505,
+            279
+          ],
+          [
+            423,
+            279
+          ]
+        ]
+      },
+      {
+        "text": "Sjur",
+        "confidence": 0.899,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            429,
+            279
+          ],
+          [
+            459,
+            279
+          ],
+          [
+            459,
+            297
+          ],
+          [
+            429,
+            297
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.865,
+      "sky": 0.016,
+      "brightness": 141.733
+    }
+  },
+  {
+    "timestamp": 264,
+    "time": "04:24",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0264.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"MrSaki $ comb\" (conf: 90%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "MrSaki $ comb",
+        "confidence": 0.895,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            256,
+            330
+          ],
+          [
+            386,
+            330
+          ],
+          [
+            386,
+            354
+          ],
+          [
+            256,
+            354
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.456,
+      "sky": 0.002,
+      "brightness": 145.744
+    }
+  },
+  {
+    "timestamp": 284,
+    "time": "04:44",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0284.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"MrSaki $ hat\" (conf: 84%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "MrSaki $ hat",
+        "confidence": 0.835,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            266,
+            330
+          ],
+          [
+            376,
+            330
+          ],
+          [
+            376,
+            354
+          ],
+          [
+            266,
+            354
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.51,
+      "sky": 0.015,
+      "brightness": 140.551
+    }
+  },
+  {
+    "timestamp": 336,
+    "time": "05:36",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0336.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"yes,a lot\" (conf: 91%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "yes,a lot",
+        "confidence": 0.908,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            282,
+            332
+          ],
+          [
+            358,
+            332
+          ],
+          [
+            358,
+            358
+          ],
+          [
+            282,
+            358
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.632,
+      "sky": 0.064,
+      "brightness": 168.523
+    }
+  },
+  {
+    "timestamp": 1076,
+    "time": "17:56",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1076.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"Achech benets\" (conf: 34%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "045123",
+        "confidence": 0.064,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            86,
+            264
+          ],
+          [
+            156,
+            264
+          ],
+          [
+            156,
+            290
+          ],
+          [
+            86,
+            290
+          ]
+        ]
+      },
+      {
+        "text": "Achech benets",
+        "confidence": 0.344,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            77,
+            290
+          ],
+          [
+            161,
+            290
+          ],
+          [
+            161,
+            307
+          ],
+          [
+            77,
+            307
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.6,
+      "sky": 0.0,
+      "brightness": 92.143
+    }
+  },
+  {
+    "timestamp": 1308,
+    "time": "21:48",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1308.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"ong\"\" (conf: 35%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "@Db0c0) @30585 Gesk88",
+        "confidence": 0.047,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            44,
+            131
+          ],
+          [
+            235,
+            131
+          ],
+          [
+            235,
+            163
+          ],
+          [
+            44,
+            163
+          ]
+        ]
+      },
+      {
+        "text": "Ohilli",
+        "confidence": 0.229,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            81,
+            157
+          ],
+          [
+            115,
+            157
+          ],
+          [
+            115,
+            171
+          ],
+          [
+            81,
+            171
+          ]
+        ]
+      },
+      {
+        "text": "Laee",
+        "confidence": 0.003,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            164,
+            162
+          ],
+          [
+            194,
+            162
+          ],
+          [
+            194,
+            168
+          ],
+          [
+            164,
+            168
+          ]
+        ]
+      },
+      {
+        "text": "ong\"",
+        "confidence": 0.346,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            117,
+            154
+          ],
+          [
+            163,
+            160
+          ],
+          [
+            161,
+            176
+          ],
+          [
+            114,
+            170
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.513,
+      "sky": 0.009,
+      "brightness": 116.923
+    }
+  },
+  {
+    "timestamp": 1412,
+    "time": "23:32",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1412.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 35,
+    "reasons": [
+      "Latin text: \"Let'$ g0 Menika\" (conf: 51%)",
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Let'$ g0 Menika",
+        "confidence": 0.508,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            252,
+            330
+          ],
+          [
+            388,
+            330
+          ],
+          [
+            388,
+            358
+          ],
+          [
+            252,
+            358
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.734,
+      "sky": 0.007,
+      "brightness": 130.353
+    }
+  },
+  {
+    "timestamp": 994,
+    "time": "16:34",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0994.jpg",
+    "frame_type": "indoor-bright",
+    "score": 30,
+    "reasons": [
+      "Latin text: \"4x8\" (conf: 32%)",
+      "Latin text: \"nopeets\" (conf: 34%)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "3n83o6",
+        "confidence": 0.086,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            20,
+            297
+          ],
+          [
+            88,
+            297
+          ],
+          [
+            88,
+            327
+          ],
+          [
+            20,
+            327
+          ]
+        ]
+      },
+      {
+        "text": "4x8",
+        "confidence": 0.317,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            82,
+            303
+          ],
+          [
+            135,
+            299
+          ],
+          [
+            136,
+            326
+          ],
+          [
+            83,
+            330
+          ]
+        ]
+      },
+      {
+        "text": "nopeets",
+        "confidence": 0.34,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            65,
+            323
+          ],
+          [
+            113,
+            329
+          ],
+          [
+            111,
+            346
+          ],
+          [
+            62,
+            340
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.155,
+      "brightness": 107.765
+    }
+  },
+  {
+    "timestamp": 996,
+    "time": "16:36",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0996.jpg",
+    "frame_type": "indoor-bright",
+    "score": 30,
+    "reasons": [
+      "Latin text: \"4x8\" (conf: 31%)",
+      "Latin text: \"nopeets\" (conf: 33%)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "3a86",
+        "confidence": 0.218,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            20,
+            296
+          ],
+          [
+            88,
+            296
+          ],
+          [
+            88,
+            327
+          ],
+          [
+            20,
+            327
+          ]
+        ]
+      },
+      {
+        "text": "4x8",
+        "confidence": 0.314,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            82,
+            303
+          ],
+          [
+            135,
+            299
+          ],
+          [
+            136,
+            326
+          ],
+          [
+            83,
+            330
+          ]
+        ]
+      },
+      {
+        "text": "nopeets",
+        "confidence": 0.328,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            65,
+            323
+          ],
+          [
+            113,
+            329
+          ],
+          [
+            111,
+            346
+          ],
+          [
+            62,
+            340
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.154,
+      "brightness": 107.186
+    }
+  },
+  {
+    "timestamp": 10,
+    "time": "00:10",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0010.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"oeoco)\" (conf: 32%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "oeoco)",
+        "confidence": 0.316,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            87,
+            313
+          ],
+          [
+            153,
+            313
+          ],
+          [
+            153,
+            331
+          ],
+          [
+            87,
+            331
+          ]
+        ]
+      },
+      {
+        "text": "frruifs",
+        "confidence": 0.12,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            121,
+            331
+          ],
+          [
+            155,
+            331
+          ],
+          [
+            155,
+            347
+          ],
+          [
+            121,
+            347
+          ]
+        ]
+      },
+      {
+        "text": "Dongu",
+        "confidence": 0.046,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            31,
+            326
+          ],
+          [
+            76,
+            332
+          ],
+          [
+            73,
+            348
+          ],
+          [
+            28,
+            342
+          ]
+        ]
+      },
+      {
+        "text": "(Cotlan",
+        "confidence": 0.029,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            77,
+            326
+          ],
+          [
+            122,
+            332
+          ],
+          [
+            119,
+            349
+          ],
+          [
+            74,
+            343
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.764,
+      "sky": 0.008,
+      "brightness": 84.353
+    }
+  },
+  {
+    "timestamp": 62,
+    "time": "01:02",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0062.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Then IIl get down\" (conf: 67%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Then IIl get down",
+        "confidence": 0.674,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            240,
+            330
+          ],
+          [
+            400,
+            330
+          ],
+          [
+            400,
+            358
+          ],
+          [
+            240,
+            358
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.313,
+      "sky": 0.0,
+      "brightness": 55.865
+    }
+  },
+  {
+    "timestamp": 158,
+    "time": "02:38",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0158.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Moya come\" (conf: 66%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Moya come",
+        "confidence": 0.655,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            267,
+            331
+          ],
+          [
+            374,
+            331
+          ],
+          [
+            374,
+            357
+          ],
+          [
+            267,
+            357
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.842,
+      "sky": 0.01,
+      "brightness": 125.351
+    }
+  },
+  {
+    "timestamp": 632,
+    "time": "10:32",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0632.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Walijhaluca\" (conf: 46%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "28 08",
+        "confidence": 0.191,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            60,
+            280
+          ],
+          [
+            142,
+            280
+          ],
+          [
+            142,
+            310
+          ],
+          [
+            60,
+            310
+          ]
+        ]
+      },
+      {
+        "text": "Walijhaluca",
+        "confidence": 0.462,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            63,
+            311
+          ],
+          [
+            137,
+            311
+          ],
+          [
+            137,
+            327
+          ],
+          [
+            63,
+            327
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.365,
+      "sky": 0.0,
+      "brightness": 86.865
+    }
+  },
+  {
+    "timestamp": 666,
+    "time": "11:06",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0666.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"sumith uncle,wa\" (conf: 68%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "sumith uncle,wa",
+        "confidence": 0.684,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            199,
+            330
+          ],
+          [
+            346,
+            330
+          ],
+          [
+            346,
+            356
+          ],
+          [
+            199,
+            356
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.255,
+      "sky": 0.004,
+      "brightness": 93.874
+    }
+  },
+  {
+    "timestamp": 1020,
+    "time": "17:00",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1020.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Mom have some lunumiris\" (conf: 70%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Mom have some lunumiris",
+        "confidence": 0.695,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            206,
+            330
+          ],
+          [
+            436,
+            330
+          ],
+          [
+            436,
+            354
+          ],
+          [
+            206,
+            354
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.384,
+      "sky": 0.032,
+      "brightness": 128.982
+    }
+  },
+  {
+    "timestamp": 1048,
+    "time": "17:28",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1048.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"ok dear\" (conf: 79%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "ok dear",
+        "confidence": 0.789,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            285,
+            333
+          ],
+          [
+            355,
+            333
+          ],
+          [
+            355,
+            353
+          ],
+          [
+            285,
+            353
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.356,
+      "sky": 0.0,
+      "brightness": 120.918
+    }
+  },
+  {
+    "timestamp": 1072,
+    "time": "17:52",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1072.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Hello moya:\" (conf: 51%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Hello moya:",
+        "confidence": 0.509,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            262,
+            332
+          ],
+          [
+            378,
+            332
+          ],
+          [
+            378,
+            356
+          ],
+          [
+            262,
+            356
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.937,
+      "sky": 0.0,
+      "brightness": 99.752
+    }
+  },
+  {
+    "timestamp": 1376,
+    "time": "22:56",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1376.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"83388\" (conf: 36%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "306802) 226",
+        "confidence": 0.068,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            6,
+            302
+          ],
+          [
+            124,
+            302
+          ],
+          [
+            124,
+            328
+          ],
+          [
+            6,
+            328
+          ]
+        ]
+      },
+      {
+        "text": "Curry leuves buffer_bread",
+        "confidence": 0.237,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            6,
+            324
+          ],
+          [
+            161,
+            324
+          ],
+          [
+            161,
+            343
+          ],
+          [
+            6,
+            343
+          ]
+        ]
+      },
+      {
+        "text": "83388",
+        "confidence": 0.358,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            120,
+            304
+          ],
+          [
+            165,
+            300
+          ],
+          [
+            167,
+            325
+          ],
+          [
+            121,
+            329
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.633,
+      "sky": 0.002,
+      "brightness": 99.466
+    }
+  },
+  {
+    "timestamp": 1410,
+    "time": "23:30",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1410.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"come tor tea\" (conf: 83%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "come tor tea",
+        "confidence": 0.832,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            265,
+            335
+          ],
+          [
+            375,
+            335
+          ],
+          [
+            375,
+            353
+          ],
+          [
+            265,
+            353
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.596,
+      "sky": 0.009,
+      "brightness": 109.874
+    }
+  },
+  {
+    "timestamp": 1430,
+    "time": "23:50",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_1430.jpg",
+    "frame_type": "outdoor-scene",
+    "score": 25,
+    "reasons": [
+      "Latin text: \"Dip in the sauce aunty\" (conf: 82%)",
+      "Outdoor scene"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "Dip in the sauce aunty",
+        "confidence": 0.824,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            224,
+            332
+          ],
+          [
+            416,
+            332
+          ],
+          [
+            416,
+            358
+          ],
+          [
+            224,
+            358
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.333,
+      "sky": 0.041,
+      "brightness": 119.115
+    }
+  },
+  {
+    "timestamp": 0,
+    "time": "00:00",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0000.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.518,
+      "sky": 0.331,
+      "brightness": 145.833
+    }
+  },
+  {
+    "timestamp": 2,
+    "time": "00:02",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0002.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.53,
+      "sky": 0.325,
+      "brightness": 147.746
+    }
+  },
+  {
+    "timestamp": 6,
+    "time": "00:06",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0006.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.456,
+      "sky": 0.194,
+      "brightness": 98.184
+    }
+  },
+  {
+    "timestamp": 18,
+    "time": "00:18",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0018.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.413,
+      "sky": 0.0,
+      "brightness": 86.952
+    }
+  },
+  {
+    "timestamp": 22,
+    "time": "00:22",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0022.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.472,
+      "sky": 0.0,
+      "brightness": 55.428
+    }
+  },
+  {
+    "timestamp": 34,
+    "time": "00:34",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0034.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.639,
+      "sky": 0.009,
+      "brightness": 76.125
+    }
+  },
+  {
+    "timestamp": 42,
+    "time": "00:42",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0042.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.647,
+      "sky": 0.046,
+      "brightness": 99.317
+    }
+  },
+  {
+    "timestamp": 44,
+    "time": "00:44",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0044.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.663,
+      "sky": 0.039,
+      "brightness": 95.605
+    }
+  },
+  {
+    "timestamp": 48,
+    "time": "00:48",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0048.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.456,
+      "sky": 0.004,
+      "brightness": 96.101
+    }
+  },
+  {
+    "timestamp": 52,
+    "time": "00:52",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0052.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.53,
+      "sky": 0.015,
+      "brightness": 109.074
+    }
+  },
+  {
+    "timestamp": 54,
+    "time": "00:54",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0054.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.514,
+      "sky": 0.0,
+      "brightness": 96.62
+    }
+  },
+  {
+    "timestamp": 56,
+    "time": "00:56",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0056.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.527,
+      "sky": 0.0,
+      "brightness": 93.543
+    }
+  },
+  {
+    "timestamp": 58,
+    "time": "00:58",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0058.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.555,
+      "sky": 0.0,
+      "brightness": 77.655
+    }
+  },
+  {
+    "timestamp": 106,
+    "time": "01:46",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0106.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.48,
+      "sky": 0.001,
+      "brightness": 134.289
+    }
+  },
+  {
+    "timestamp": 116,
+    "time": "01:56",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0116.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.556,
+      "sky": 0.0,
+      "brightness": 64.69
+    }
+  },
+  {
+    "timestamp": 120,
+    "time": "02:00",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0120.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [
+      {
+        "text": "6@55",
+        "confidence": 0.244,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            150,
+            284
+          ],
+          [
+            198,
+            284
+          ],
+          [
+            198,
+            316
+          ],
+          [
+            150,
+            316
+          ]
+        ]
+      },
+      {
+        "text": "Iovi",
+        "confidence": 0.117,
+        "script": "latin",
+        "is_non_latin": false,
+        "bbox": [
+          [
+            159,
+            317
+          ],
+          [
+            191,
+            317
+          ],
+          [
+            191,
+            331
+          ],
+          [
+            159,
+            331
+          ]
+        ]
+      }
+    ],
+    "frame_props": {
+      "green": 0.853,
+      "sky": 0.082,
+      "brightness": 101.863
+    }
+  },
+  {
+    "timestamp": 122,
+    "time": "02:02",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0122.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.736,
+      "sky": 0.08,
+      "brightness": 93.534
+    }
+  },
+  {
+    "timestamp": 124,
+    "time": "02:04",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0124.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.906,
+      "sky": 0.029,
+      "brightness": 117.904
+    }
+  },
+  {
+    "timestamp": 126,
+    "time": "02:06",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0126.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.447,
+      "sky": 0.0,
+      "brightness": 46.466
+    }
+  },
+  {
+    "timestamp": 128,
+    "time": "02:08",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0128.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.485,
+      "sky": 0.0,
+      "brightness": 49.145
+    }
+  },
+  {
+    "timestamp": 136,
+    "time": "02:16",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0136.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.815,
+      "sky": 0.032,
+      "brightness": 124.542
+    }
+  },
+  {
+    "timestamp": 150,
+    "time": "02:30",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0150.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.68,
+      "sky": 0.056,
+      "brightness": 135.317
+    }
+  },
+  {
+    "timestamp": 152,
+    "time": "02:32",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0152.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.804,
+      "sky": 0.03,
+      "brightness": 139.408
+    }
+  },
+  {
+    "timestamp": 160,
+    "time": "02:40",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0160.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.653,
+      "sky": 0.001,
+      "brightness": 95.559
+    }
+  },
+  {
+    "timestamp": 162,
+    "time": "02:42",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0162.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.504,
+      "sky": 0.001,
+      "brightness": 99.404
+    }
+  },
+  {
+    "timestamp": 164,
+    "time": "02:44",
+    "frame_path": "/Users/vishnu.nemarugommula/Desktop/platform-x/startup/WhereIsThis/ocr-frames/frame_0164.jpg",
+    "frame_type": "outdoor-landscape",
+    "score": 20,
+    "reasons": [
+      "Outdoor landscape (high geolocation value)"
+    ],
+    "country_hints": [],
+    "detections": [],
+    "frame_props": {
+      "green": 0.81,
+      "sky": 0.086,
+      "brightness": 98.778
+    }
+  }
+]

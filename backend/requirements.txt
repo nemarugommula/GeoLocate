@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gradio
+open-clip-torch
+geoclip
+geopy
+torch
+torchvision
+Pillow
+requests
+litellm

@@ -1,0 +1,10 @@
+{
+  "location": "Akuressa area, Matara District",
+  "region": "Southern Province, Sri Lanka",
+  "lat": 6.1011778,
+  "lon": 80.4764879,
+  "precision": "district level (~20km radius)",
+  "confidence": "HIGH",
+  "signals_used": 6,
+  "signals_aligned": 5
+}

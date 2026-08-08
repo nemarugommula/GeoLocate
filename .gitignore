@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+.env
+*.log
+
+# Phase 0 test artifacts (large frame/image directories)
+*-frames/
+*-signal/
+*-tiles/
+*-comparison/
+ocr-frames/
+filter-raw-frames/
+test-frames/
+
+# Extension local storage
+extension/.cache/
+
+# OS
+.DS_Store
+Thumbs.db

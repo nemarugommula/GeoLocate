@@ -1,0 +1,222 @@
+[
+  {
+    "lat": 6.103894933524973,
+    "lon": 80.47378971465542,
+    "row": 2,
+    "col": -2,
+    "n_matches": 5,
+    "match_ratio": 0.0025,
+    "homography_matches": 16,
+    "inliers": 8,
+    "score": 21
+  },
+  {
+    "lat": 6.10524240028746,
+    "lon": 80.47378971465542,
+    "row": 3,
+    "col": -2,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 15,
+    "inliers": 6,
+    "score": 14
+  },
+  {
+    "lat": 6.097157599712541,
+    "lon": 80.4778551426723,
+    "row": -3,
+    "col": 1,
+    "n_matches": 3,
+    "match_ratio": 0.0015,
+    "homography_matches": 10,
+    "inliers": 4,
+    "score": 11
+  },
+  {
+    "lat": 6.103894933524973,
+    "lon": 80.47243457198313,
+    "row": 2,
+    "col": -3,
+    "n_matches": 5,
+    "match_ratio": 0.0025,
+    "homography_matches": 11,
+    "inliers": 0,
+    "score": 5
+  },
+  {
+    "lat": 6.102547466762487,
+    "lon": 80.4751448573277,
+    "row": 1,
+    "col": -1,
+    "n_matches": 3,
+    "match_ratio": 0.0015,
+    "homography_matches": 4,
+    "inliers": 0,
+    "score": 3
+  },
+  {
+    "lat": 6.102547466762487,
+    "lon": 80.47921028534458,
+    "row": 1,
+    "col": 2,
+    "n_matches": 3,
+    "match_ratio": 0.0015,
+    "homography_matches": 7,
+    "inliers": 0,
+    "score": 3
+  },
+  {
+    "lat": 6.103894933524973,
+    "lon": 80.4778551426723,
+    "row": 2,
+    "col": 1,
+    "n_matches": 3,
+    "match_ratio": 0.0015,
+    "homography_matches": 9,
+    "inliers": 0,
+    "score": 3
+  },
+  {
+    "lat": 6.10524240028746,
+    "lon": 80.47243457198313,
+    "row": 3,
+    "col": -3,
+    "n_matches": 3,
+    "match_ratio": 0.0015,
+    "homography_matches": 9,
+    "inliers": 0,
+    "score": 3
+  },
+  {
+    "lat": 6.0985050664750275,
+    "lon": 80.4751448573277,
+    "row": -2,
+    "col": -1,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 7,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.0985050664750275,
+    "lon": 80.4765,
+    "row": -2,
+    "col": 0,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 6,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.099852533237514,
+    "lon": 80.4765,
+    "row": -1,
+    "col": 0,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 6,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.1012,
+    "lon": 80.47378971465542,
+    "row": 0,
+    "col": -2,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 5,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.102547466762487,
+    "lon": 80.47378971465542,
+    "row": 1,
+    "col": -2,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 3,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.103894933524973,
+    "lon": 80.4751448573277,
+    "row": 2,
+    "col": -1,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 6,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.103894933524973,
+    "lon": 80.4765,
+    "row": 2,
+    "col": 0,
+    "n_matches": 2,
+    "match_ratio": 0.001,
+    "homography_matches": 7,
+    "inliers": 0,
+    "score": 2
+  },
+  {
+    "lat": 6.097157599712541,
+    "lon": 80.47243457198313,
+    "row": -3,
+    "col": -3,
+    "n_matches": 1,
+    "match_ratio": 0.0005,
+    "homography_matches": 2,
+    "inliers": 0,
+    "score": 1
+  },
+  {
+    "lat": 6.0985050664750275,
+    "lon": 80.47921028534458,
+    "row": -2,
+    "col": 2,
+    "n_matches": 1,
+    "match_ratio": 0.0005,
+    "homography_matches": 4,
+    "inliers": 0,
+    "score": 1
+  },
+  {
+    "lat": 6.099852533237514,
+    "lon": 80.47378971465542,
+    "row": -1,
+    "col": -2,
+    "n_matches": 1,
+    "match_ratio": 0.0005,
+    "homography_matches": 5,
+    "inliers": 0,
+    "score": 1
+  },
+  {
+    "lat": 6.099852533237514,
+    "lon": 80.4751448573277,
+    "row": -1,
+    "col": -1,
+    "n_matches": 1,
+    "match_ratio": 0.0005,
+    "homography_matches": 6,
+    "inliers": 0,
+    "score": 1
+  },
+  {
+    "lat": 6.099852533237514,
+    "lon": 80.4778551426723,
+    "row": -1,
+    "col": 1,
+    "n_matches": 1,
+    "match_ratio": 0.0005,
+    "homography_matches": 6,
+    "inliers": 0,
+    "score": 1
+  }
+]

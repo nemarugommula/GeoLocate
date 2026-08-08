@@ -1,0 +1,26 @@
+name: Deploy to Hugging Face Space
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'backend/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Push backend to HF Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          cd backend
+          git init
+          git config user.name "vishnu.nemarugommula"
+          git config user.email "vishnu.nemarugommula@gmail.com"
+          git remote add hf https://vshnlucky:$HF_TOKEN@huggingface.co/spaces/vshnlucky/scenepoint-api
+          git add -A
+          git commit -m "Deploy from GitHub"
+          git push hf main --force
