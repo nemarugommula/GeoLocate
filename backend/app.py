@@ -1,28 +1,20 @@
 """
-Scenera API — HF Spaces entry point.
-Gradio UI + FastAPI API mounted together.
+ScenePoint API — deployed as a Gradio Space with FastAPI mounted.
+Gradio handles the hosting, FastAPI handles the API routes.
 """
 import gradio as gr
-import uvicorn
-
-# Import FastAPI app (loads ML models on startup)
 from main import app as fastapi_app
 
-# Minimal Gradio UI
-with gr.Blocks(title="Scenera API") as demo:
-    gr.Markdown("# 📍 Scenera API")
+# Minimal Gradio UI (required for HF Spaces to recognize it)
+with gr.Blocks(title="ScenePoint API") as demo:
+    gr.Markdown("# ScenePoint API")
     gr.Markdown("AI-powered location discovery from YouTube video frames.")
-    gr.Markdown("Use the Scenera Chrome extension to interact with this API.")
-    with gr.Accordion("API Endpoints", open=False):
-        gr.Markdown("""
-        - `POST /lookup` — Find location from a video frame
-        - `GET /history` — Get user's past lookups  
-        - `POST /feedback` — Submit feedback
-        - `GET /health` — Health check
-        """)
+    gr.Markdown("This Space serves the ScenePoint API. Use the Chrome extension to interact with it.")
+    gr.Markdown("### Endpoints")
+    gr.Markdown("- `POST /lookup` — Find location from a video frame")
+    gr.Markdown("- `GET /history` — Get user's past lookups")
+    gr.Markdown("- `POST /feedback` — Submit feedback")
+    gr.Markdown("- `GET /health` — Health check")
 
-# Mount Gradio inside FastAPI
+# Mount FastAPI inside Gradio
 app = gr.mount_gradio_app(fastapi_app, demo, path="/")
-
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=7860)

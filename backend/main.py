@@ -31,7 +31,7 @@ async def lifespan(app: FastAPI):
     conn.close()
     print("Database ready.")
 
-    print(f"\nScenera API running at http://{API_HOST}:{API_PORT}")
+    print(f"\nScenePoint API running at http://{API_HOST}:{API_PORT}")
     print("Endpoints:")
     print("  POST /lookup     — Find location from a video frame")
     print("  GET  /history    — Get user's past lookups")
@@ -41,10 +41,10 @@ async def lifespan(app: FastAPI):
     yield
 
     # Shutdown
-    print("Shutting down Scenera API.")
+    print("Shutting down ScenePoint API.")
 
 
-app = FastAPI(title="Scenera API", version="0.1.0", lifespan=lifespan)
+app = FastAPI(title="ScenePoint API", version="0.1.0", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,

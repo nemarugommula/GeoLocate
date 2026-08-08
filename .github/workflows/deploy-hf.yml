@@ -20,7 +20,7 @@ jobs:
           git init
           git config user.name "vishnu.nemarugommula"
           git config user.email "vishnu.nemarugommula@gmail.com"
-          git remote add hf https://vshnlucky:$HF_TOKEN@huggingface.co/spaces/vshnlucky/scenera-api
+          git remote add hf https://vshnlucky:$HF_TOKEN@huggingface.co/spaces/vshnlucky/scenepoint-api
           git add -A
           git commit -m "Deploy from GitHub"
           git push hf main --force

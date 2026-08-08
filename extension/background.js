@@ -1,4 +1,4 @@
-// Scenera — Background Service Worker
+// ScenePoint — Background Service Worker
 // Handles extension icon click → tells content script to toggle the side panel
 
 chrome.action.onClicked.addListener(async (tab) => {

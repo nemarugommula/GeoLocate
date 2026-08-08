@@ -17,7 +17,7 @@ CLIP_MODEL_NAME = "ViT-B-32"
 CLIP_PRETRAINED = "openai"
 
 # Database
-SQLITE_PATH = BASE_DIR / "scenera.db"
+SQLITE_PATH = BASE_DIR / "scenepoint.db"
 
 # Rate Limiting
 RATE_LIMIT_PER_DAY = 50  # set to 5 for production
@@ -26,7 +26,7 @@ RATE_LIMIT_PER_DAY = 50  # set to 5 for production
 CACHE_TIMESTAMP_TOLERANCE = 10
 
 # Geocoding
-NOMINATIM_USER_AGENT = "scenera-mvp/0.1"
+NOMINATIM_USER_AGENT = "scenepoint-mvp/0.1"
 
 # API
 import os
