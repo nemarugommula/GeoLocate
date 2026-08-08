@@ -15,9 +15,15 @@ def predict_location(image_path: str, model: GeoCLIP, top_k: int = 5) -> list[di
     top_gps, top_probs = model.predict(image_path, top_k=top_k)
 
     predictions = []
-    for gps, prob in zip(top_gps, top_probs):
+    for i, (gps, prob) in enumerate(zip(top_gps, top_probs)):
         lat, lon, p = float(gps[0]), float(gps[1]), float(prob)
-        place = _reverse_geocode(lat, lon)
+
+        # Only reverse-geocode top 1 to save time (5s → 1s)
+        if i == 0:
+            place = _reverse_geocode(lat, lon)
+        else:
+            place = f"{lat:.2f}, {lon:.2f}"
+
         country = place.split(",")[-1].strip() if "," in place else place
 
         predictions.append({

@@ -587,7 +587,7 @@
 
     // Call backend directly via fetch
     try {
-      const API_URL = "http://localhost:8000"; // TODO: change to HF Spaces URL after deploy
+      const API_URL = "https://vshnlucky-scenera-api.hf.space";
       const resp = await fetch(`${API_URL}/lookup`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
